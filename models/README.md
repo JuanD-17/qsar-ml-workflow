@@ -2,7 +2,7 @@
 
 ## Available Models
 
-- **Ensayo 120**
+**Ensayo 120**
   - Algorithm: Random Forest Regressor
   - Task: Regression (antioxidant activity prediction)
   - Target variable: Log₁₀-transformed antioxidant activity (nM)
