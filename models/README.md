@@ -67,7 +67,7 @@ Evaluations are reported for:
   - 5-fold cross-validation (mean ± SD)
 
 ## Outputs
-Running this script generates the following artifacts in the [ensayo120/](./ensayo120/) directory:
+Running this script generates the following artifacts in the [ensayo120/](ensayo120/) directory:
 - Trained Random Forest model (.joblib)
 - Feature selection masks and selectors
 - Scaler and imputer objects
@@ -153,7 +153,7 @@ Metrics are reported for:
   - 5-fold cross-validation (mean ± standard deviation)
 
 ## Outputs
-Running this script generates the following artifacts in the [ensayo121/](./ensayo121/) directory:
+Running this script generates the following artifacts in the [ensayo121/](ensayo121/) directory:
   - Trained Random Forest model (.joblib)
   - Selected feature masks
   - Boruta and Mutual Information selection plots
@@ -244,7 +244,7 @@ Evaluations are reported for:
   - 5-fold cross-validation (mean ± standard deviation)
 
 ## Outputs
-Running this script generates the following artifacts in the [ensayo122/](./ensayo122/) directory:
+Running this script generates the following artifacts in the [ensayo122/](ensayo122/) directory:
   - Trained Random Forest model (.joblib)
   - Feature selection masks
   - Boruta feature selection plots
@@ -331,7 +331,7 @@ Evaluations are reported for:
   - 5-fold cross-validation (mean ± standard deviation)
 
 ## Outputs
-Running this script generates the following artifacts in the [ensayo112/](./ensayo112/) directory:
+Running this script generates the following artifacts in the [ensayo112/](ensayo112/) directory:
   - Trained Random Forest model (.joblib)
   - Feature selection masks
   - Boruta feature selection plots
@@ -416,7 +416,7 @@ Metrics are reported for:
   - 5-fold cross-validation (mean ± standard deviation)
 
 ## Outputs
-All results are stored in the [ensayo117/](./ensayo117/) directory, including:
+All results are stored in the [ensayo117/](ensayo117/) directory, including:
   - Trained Random Forest model (.joblib)
   - Selected feature masks
   - Boruta feature selection plots
@@ -501,7 +501,7 @@ Evaluations are reported for:
   - 5-fold cross-validation (mean ± standard deviation)
 
 ## Outputs
-Running this script generates the following artifacts in the [ensayo118/](./ensayo118/) directory:
+Running this script generates the following artifacts in the [ensayo118/](ensayo118/) directory:
   - Trained Random Forest model (.joblib)
   - Combined feature selection masks
   - Boruta feature selection plots
@@ -587,7 +587,7 @@ Evaluations are reported for:
   - 5-fold cross-validation (mean ± standard deviation)
 
 ## Outputs
-Running this script generates the following artifacts in the [ensayo119/](./ensayo119/) directory:
+Running this script generates the following artifacts in the [ensayo119/](ensayo119/) directory:
   - Trained Random Forest model (.joblib)
   - Combined feature selection masks
   - Boruta feature selection plots
@@ -693,7 +693,7 @@ Metrics are computed independently for:
   - Stacking ensemble model
 
 ## Outputs
-Running this script generates the following artifacts in the [ensayo171/](./ensayo171/) directory:
+Running this script generates the following artifacts in the [ensayo171/](ensayo171/) directory:
   - Trained Random Forest model (.joblib)
   - Trained MLP Neural Network model (.joblib)
   - Trained Stacking Ensemble model (.joblib)
