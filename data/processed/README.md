@@ -19,14 +19,14 @@ script and what role each dataset plays in the QSAR pipeline.
 
 | Script | Input dataset | Activity level | Description |
 |---|---|---|---|
-| `ensayo120.py` | `antioxidant13.csv` | Low | Low-activity modeling branch |
-| `ensayo121.py` | `antioxidant13.csv` | Low | Low-activity modeling branch |
-| `ensayo122.py` | `antioxidant13.csv` | Low | Low-activity modeling branch |
+| `ensayo120.py` | `antioxidant13.csv` | High | High-activity modeling branch |
+| `ensayo121.py` | `antioxidant13.csv` | High | High-activity modeling branch |
+| `ensayo122.py` | `antioxidant13.csv` | High | High-activity modeling branch |
 | `ensayo112.py` | `antioxidant15.csv` | Medium | Medium-activity modeling branch |
 | `ensayo117.py` | `antioxidant15.csv` | Medium | Medium-activity modeling branch |
 | `ensayo118.py` | `antioxidant15.csv` | Medium | Medium-activity modeling branch |
 | `ensayo119.py` | `antioxidant15.csv` | Medium | Medium-activity modeling branch |
-| `ensayo171.py` | `antioxidant18.csv` | Independent | Independent modeling dataset |
+| `ensayo171.py` | `antioxidant18.csv` | Low | Low-activity modeling dataset |
 
 ---
 
@@ -37,7 +37,7 @@ script and what role each dataset plays in the QSAR pipeline.
 ### How it is created
 
 This dataset is generated from `antioxidant12.csv` by filtering the potency
-category corresponding to **low activity**:
+category corresponding to **high antioxidant activity**:
 
 Category = Bajo
 
@@ -45,9 +45,12 @@ Creation script: `ensayo58.py`
 
 ### What it represents
 
-Low-activity subset extracted from the IC50 processed dataset.
+High-activity subset extracted from the IC50 processed dataset.
 
-This dataset serves as the base dataset for **low-potency QSAR modeling branches**.
+Lower IC50 values correspond to **higher antioxidant potency**, therefore
+this dataset contains the most potent compounds within the dataset.
+
+This dataset serves as the base dataset for **high-potency QSAR modeling branches**.
 
 ### Typical columns
 
@@ -64,7 +67,7 @@ This dataset serves as the base dataset for **low-potency QSAR modeling branches
 
 This dataset is derived from `antioxidant13.csv`.
 
-The low-activity dataset is further stratified into three potency bins using
+The high-activity dataset is further stratified into three potency bins using
 quantile-based splitting.
 
 Method used:
@@ -75,7 +78,7 @@ Creation script: `ensayo75.py`
 
 ### What it represents
 
-The low-activity (`Bajo`) dataset split into terciles to support
+The high-activity dataset split into terciles to support
 subcategory-specific QSAR modeling workflows.
 
 ---
@@ -116,7 +119,10 @@ Subcategory
 This dataset corresponds to a later-stage processed dataset used by the
 modeling workflow implemented in `ensayo171.py`.
 
-Unlike datasets `13–15`, this dataset belongs to an **independent modeling branch**.
+Unlike datasets `13–15`, this dataset belongs to a **low-activity modeling branch**.
+
+These compounds generally exhibit **higher IC50 values**, indicating
+lower antioxidant potency.
 
 ### Confirmed usage
 
@@ -153,6 +159,3 @@ Where:
 - `data/curated` contains progressively cleaned and normalized datasets.
 - `data/processed` contains modeling-ready datasets used directly by QSAR models.
 - `models` contains trained predictive models and evaluation results.
-
----
-
