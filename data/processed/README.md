@@ -8,7 +8,7 @@ used directly for QSAR model training.
 
 ---
 
-# QSAR Dataset Mapping (antioxidant13–15, antioxidant18)
+# QSAR Dataset Mapping (antioxidant13, antioxidant15 and antioxidant18)
 
 This document describes which processed dataset is used by each key modeling
 script and what role each dataset plays in the QSAR pipeline.
