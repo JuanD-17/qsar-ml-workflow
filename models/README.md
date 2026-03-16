@@ -171,21 +171,21 @@ Observed vs. predicted activity plots are also generated for visual assessment o
 
 # Available Models
 
-The following QSAR models are available in this directory.
+The following QSAR models are implemented in this directory.
 
 ## High-Activity Models
 
-**Assay 120**
+**`ensayo120.py`**
 
 - Algorithm: Random Forest Regressor  
 - Activity subset: High activity (upper range)
 
-**Assay 121**
+**`ensayo121.py`**
 
 - Algorithm: Random Forest Regressor  
 - Activity subset: High activity (mid range)
 
-**Assay 122**
+**`ensayo122.py`**
 
 - Algorithm: Random Forest Regressor  
 - Activity subset: High activity (lower range)
@@ -194,22 +194,22 @@ The following QSAR models are available in this directory.
 
 ## Medium-Activity Models
 
-**Assay 112**
+**`ensayo112.py`**
 
 - Algorithm: Random Forest Regressor  
 - Activity subset: Medium activity (upper-high range)
 
-**Assay 117**
+**`ensayo117.py`**
 
 - Algorithm: Random Forest Regressor  
 - Activity subset: Medium activity (upper-mid range)
 
-**Assay 118**
+**`ensayo118.py`**
 
 - Algorithm: Random Forest Regressor  
 - Activity subset: Medium activity (lower-mid range)
 
-**Assay 119**
+**`ensayo119.py`**
 
 - Algorithm: Random Forest Regressor  
 - Activity subset: Medium activity (lower-low range)
@@ -218,7 +218,7 @@ The following QSAR models are available in this directory.
 
 ## Low-Activity Models
 
-**Assay 171**
+**`ensayo171.py`**
 
 Algorithms implemented:
 
@@ -236,7 +236,7 @@ Stacking configuration:
 
 # Model Outputs
 
-Each assay model directory contains the following outputs:
+Each model script produces the following outputs:
 
 - Trained model (`.joblib`)
 - Feature selection masks
