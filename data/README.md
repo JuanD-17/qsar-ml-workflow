@@ -71,11 +71,11 @@ External datasets stored in `data/prediction_datasets/` are used for downstream 
 ```mermaid
 flowchart LR
 
-A[data_acquisition] --> B[data/raw]
-B --> C[data/curated]
-C --> D[data/processed]
-D --> E[QSAR models]
+A[data/raw] --> B[data/curated]
+B --> C[data/processed]
 
-F[data/prediction_datasets] --> G[QSAR prediction workflows]
-D --> G
+C --> D[QSAR models]
+
+E[data/prediction_datasets] --> F[QSAR prediction workflows]
+D --> F
 ```
