@@ -1,0 +1,598 @@
+﻿Molecule_name;Smiles;plant_name;reference
+Olivetolic acid;CCCCCC1=C(C(=CC(=C1)O)O)C(=O)O;Humulus lupulus;Karabin M et al. 2015. Biologically active compounds from hops and prospects for their use. PMID: 26463615
+Humulene epoxide;CC1=CCCC2(C(O2)CC(C=CC1)(C)C)C;Humulus lupulus;Van Cleemput M et al. 2009. Hop (Humulus lupulus L.): an update. PMID: 19674950
+Hulupone;CC(C)CC(=O)C1=C(C(=O)C(C1=O)(CC=C(C)C)CC=C(C)C)O;Humulus lupulus;Zanoli P & Zavatti M. 2008. Pharmacognostic and pharmacological profile of Humulus lupulus L. PMID: 18446504
+Xanthohumol;CC(=CCC1=C(C(=C(C=C1O)OC)C(=O)C=CC2=CC=C(C=C2)O)O)C;Humulus lupulus;Gerhauser C et al. 2002. Cancer chemopreventive activity of Xanthohumol, a natural product derived from hop. PMID: 12052016
+Beta-pinene;CC1(C2CCC(=C)C1C2)C;Humulus lupulus;Van Cleemput M et al. 2009. Hop (Humulus lupulus L.): an update. PMID: 19674950
+Alpha-pinene;CC1=CCC2CC1C2(C)C;Humulus lupulus;Satou T et al. 2014. Anxiolytic-like effect of essential oil extracted from Abies sachalinensis. PMID: 24300085
+Protocatechuic acid;C1=CC(=C(C=C1C(=O)O)O)O;Humulus lupulus;Karabin M et al. 2015. Biologically active compounds from hops and prospects for their use. PMID: 26463615
+Hydroxybenzoic acid;C1=CC(=CC=C1C(=O)O)O;Humulus lupulus;Karabin M et al. 2015. Biologically active compounds from hops and prospects for their use. PMID: 26463615
+Humulol;CC1=CCC(C=CCC(CCC1)(C)O)(C)C;Humulus lupulus;Van Cleemput M et al. 2009. Hop (Humulus lupulus L.): an update. PMID: 19674950
+Propionic acid;CCC(=O)O;Humulus lupulus;Karabin M et al. 2015. Biologically active compounds from hops and prospects for their use. PMID: 26463615
+Epicatechin;C1C(C(OC2=CC(=CC(=C21)O)O)C3=CC(=C(C=C3)O)O)O;Humulus lupulus;Ottaviani JI et al. 2011. The stereochemical configuration of flavanols influences the level and metabolism of flavanols in humans. PMID: 21866098
+Limonene;CC1=CCC(CC1)C(=C)C;Humulus lupulus;Sun J. 2007. D-Limonene: safety and clinical applications. PMID: 17913836
+Acetic acid;CC(=O)O;Humulus lupulus;Karabin M et al. 2015. Biologically active compounds from hops and prospects for their use. PMID: 26463615
+p-Coumaric acid;C1=CC(=CC=C1C=CC(=O)O)O;Humulus lupulus;Karabin M et al. 2015. Biologically active compounds from hops and prospects for their use. PMID: 26463615
+Acetate-methanol;CC(=O)[O-].CO;Humulus lupulus;Zanoli P & Zavatti M. 2008. Pharmacognostic and pharmacological profile of Humulus lupulus L. PMID: 18446504
+Terpineol;CC1=CCC(CC1)C(C)(C)O;Humulus lupulus;Zanoli P & Zavatti M. 2008. Pharmacognostic and pharmacological profile of Humulus lupulus L. PMID: 18446504
+Caryophyllene oxide;CC1(CC2C1CCC3(C(O3)CCC2=C)C)C;Humulus lupulus;Van Cleemput M et al. 2009. Hop (Humulus lupulus L.): an update. PMID: 19674950
+Chlorogenic acid;C1C(C(C(CC1(C(=O)O)O)OC(=O)C=CC2=CC(=C(C=C2)O)O)O)O;Humulus lupulus;Karabin M et al. 2015. Biologically active compounds from hops and prospects for their use. PMID: 26463615
+Citric acid;C(C(=O)O)C(CC(=O)O)(C(=O)O)O;Humulus lupulus;Karabin M et al. 2015. Biologically active compounds from hops and prospects for their use. PMID: 26463615
+Cannabinoids;CCCCCC1=CC(=C(C(=C1)O)C2C=C(CCC2C(=C)C)C)O.CCCCCC1=CC(=C2C3C=C(CCC3C(OC2=C1)(C)C)C)O;Humulus lupulus;Zanoli P & Zavatti M. 2008. Pharmacognostic and pharmacological profile of Humulus lupulus L. PMID: 18446504
+Linalool;CC(=CCCC(C)(C=C)O)C;Humulus lupulus;Linck VM et al. 2010. Effects of inhaled Linalool in anxiety, social interaction and aggressive behavior in mice. PMID: 20034540
+Terpinene;C.C.C.CC1=CC=C(CC1)C(C)C.CC1=CCC(=CC1)C(C)C.CC(C)C1=CCC(=C)CC1;Humulus lupulus;Van Cleemput M et al. 2009. Hop (Humulus lupulus L.): an update. PMID: 19674950
+Isoxanthohumol;CC(=CCC1=C2C(=C(C=C1O)OC)C(=O)CC(O2)C3=CC=C(C=C3)O)C;Humulus lupulus;Stevens JF & Page JE. 2004. Xanthohumol and related prenylflavonoids from hops and beer. PMID: 15113149
+Thiobarbituric acid;C1C(=O)NC(=S)NC1=O;Humulus lupulus;Karabin M et al. 2015. Biologically active compounds from hops and prospects for their use. PMID: 26463615
+Apigenin;C1=CC(=CC=C1C2=CC(=O)C3=C(C=C(C=C3O2)O)O)O;Humulus lupulus;Sung B et al. 2016. The role of apigenin in cancer prevention and therapy. PMID: 27238146
+Gallic acid;C1=C(C=C(C(=C1O)O)O)C(=O)O;Humulus lupulus;Karabin M et al. 2015. Biologically active compounds from hops and prospects for their use. PMID: 26463615
+Retinoic acid;CC1=C(C(CCC1)(C)C)C=CC(=CC=CC(=CC(=O)O)C)C;Humulus lupulus;Karabin M et al. 2015. Biologically active compounds from hops and prospects for their use. PMID: 26463615
+8-Prenylnaringenin;CC(=CCC1=C2C(=C(C=C1O)O)C(=O)CC(O2)C3=CC=C(C=C3)O)C;Humulus lupulus;Milligan SR et al. 2000. Identification of a potent phytoestrogen in hops and beer. PMID: 10998266
+Alpha-humulene;CC1=CCC(C=CCC(=CCC1)C)(C)C;Humulus lupulus;Rogerio AP et al. 2009. Anti-inflammatory effects of Lafoensia pacari and ellagic acid in a murine model of asthma. PMID: 19464569
+Beta-caryophyllene;CC1=CCCC(=C)C2CC(C2CC1)(C)C;Humulus lupulus;Gertsch J et al. 2008. Beta-caryophyllene is a dietary cannabinoid. PMID: 18574142
+Lupulone;CC(C)CC(=O)C1=C(C(=C(C(C1=O)(CC=C(C)C)CC=C(C)C)O)CC=C(C)C)O;Humulus lupulus;Schmalreck AF et al. 1975. Structural features determining the antibiotic potencies of natural and synthetic hop bitter resins. PMID: 1190797
+Naringenin;C1C(OC2=CC(=CC(=C2C1=O)O)O)C3=CC=C(C=C3)O;Humulus lupulus;Zanoli P & Zavatti M. 2008. Pharmacognostic and pharmacological profile of Humulus lupulus L. PMID: 18446504
+Vanillic acid;COC1=C(C=CC(=C1)C(=O)O)O;Humulus lupulus;Karabin M et al. 2015. Biologically active compounds from hops and prospects for their use. PMID: 26463615
+Abscisic acid;CC1=CC(=O)CC(C1(C=CC(=CC(=O)O)C)O)(C)C;Humulus lupulus;Karabin M et al. 2015. Biologically active compounds from hops and prospects for their use. PMID: 26463615
+Humulone;CC(C)CC(=O)C1=C(C(=C(C(C1=O)(CC=C(C)C)O)O)CC=C(C)C)O;Humulus lupulus;Yamamoto K et al. 2000. Suppression of cyclooxygenase-2 gene transcription by humulon. PMID: 11043546
+Ocimene;CC(=CCC=C(C)C=C)C;Humulus lupulus;Zanoli P & Zavatti M. 2008. Pharmacognostic and pharmacological profile of Humulus lupulus L. PMID: 18446504
+Valerenic acid;CC1CCC(C2=C(CCC12)C)C=C(C)C(=O)O;Humulus lupulus;Karabin M et al. 2015. Biologically active compounds from hops and prospects for their use. PMID: 26463615
+E-caryophyllene;CC1=CCCC(=C)C2CC(C2CC1)(C)C;Humulus lupulus;Van Cleemput M et al. 2009. Hop (Humulus lupulus L.): an update. PMID: 19674950
+Quinic acid;C1C(C(C(CC1(C(=O)O)O)O)O)O;Humulus lupulus;Karabin M et al. 2015. Biologically active compounds from hops and prospects for their use. PMID: 26463615
+Caryophyllene;CC1=CCCC(=C)C2CC(C2CC1)(C)C;Humulus lupulus;Van Cleemput M et al. 2009. Hop (Humulus lupulus L.): an update. PMID: 19674950
+Ferulic acid;COC1=C(C=CC(=C1)C=CC(=O)O)O;Humulus lupulus;Karabin M et al. 2015. Biologically active compounds from hops and prospects for their use. PMID: 26463615
+Humulene;CC1=CCC(C=CCC(=CCC1)C)(C)C;Humulus lupulus;Van Cleemput M et al. 2009. Hop (Humulus lupulus L.): an update. PMID: 19674950
+Colupulone;CC(C)C(=O)C1=C(C(=C(C(C1=O)(CC=C(C)C)CC=C(C)C)O)CC=C(C)C)O;Humulus lupulus;Zanoli P & Zavatti M. 2008. Pharmacognostic and pharmacological profile of Humulus lupulus L. PMID: 18446504
+Cohumulone;CC(C)C(=O)C1=C(C(=C(C(C1=O)(CC=C(C)C)O)O)CC=C(C)C)O;Humulus lupulus;Van Cleemput M et al. 2009. Hop (Humulus lupulus L.): an update. PMID: 19674950
+Luteolin;C1=CC(=C(C=C1C2=CC(=O)C3=C(C=C(C=C3O2)O)O)O)O;Humulus lupulus;López-Lázaro M. 2009. Distribution and biological activities of the flavonoid luteolin. PMID: 19881439
+Sulfonic acid;OS(=O)[O-];Humulus lupulus;Karabin M et al. 2015. Biologically active compounds from hops and prospects for their use. PMID: 26463615
+Isohumulone;CC(C)CC(=O)C1=C(C(C(C1=O)CC=C(C)C)(C(=O)CC=C(C)C)O)O;Humulus lupulus;Van Cleemput M et al. 2009. Hop (Humulus lupulus L.): an update. PMID: 19674950
+D-limonene;CC1=CCC(CC1)C(=C)C;Humulus lupulus;Van Cleemput M et al. 2009. Hop (Humulus lupulus L.): an update. PMID: 19674950
+Rosmarinic acid;C1=CC(=C(C=C1CC(C(=O)O)OC(=O)C=CC2=CC(=C(C=C2)O)O)O)O;Humulus lupulus;Karabin M et al. 2015. Biologically active compounds from hops and prospects for their use. PMID: 26463615
+Tenuazonic acid;CCC(C)C1C(=C(C(=O)N1)C(=O)C)O;Humulus lupulus;Karabin M et al. 2015. Biologically active compounds from hops and prospects for their use. PMID: 26463615
+Quercetin;C1=CC(=C(C=C1C2=C(C(=O)C3=C(C=C(C=C3O2)O)O)O)O)O;Humulus lupulus;Walle T. 2004. Absorption and metabolism of flavonoids. PMID: 15387950
+Rutin;CC1C(C(C(C(O1)OCC2C(C(C(C(O2)OC3=C(OC4=CC(=CC(=C4C3=O)O)O)C5=CC(=C(C=C5)O)O)O)O)O)O)O)O;Humulus lupulus;Ganeshpurkar A & Saluja AK. 2017. The pharmacological potential of rutin. PMID: 27956539
+Sinapic acid;COC1=CC(=CC(=C1O)OC)C=CC(=O)O;Humulus lupulus;Karabin M et al. 2015. Biologically active compounds from hops and prospects for their use. PMID: 26463615
+Geranic acid;CC(=CCCC(=CC(=O)O)C)C;Humulus lupulus;Karabin M et al. 2015. Biologically active compounds from hops and prospects for their use. PMID: 26463615
+Kaempferol;C1=CC(=CC=C1C2=C(C(=O)C3=C(C=C(C=C3O2)O)O)O)O;Humulus lupulus;Calderón-Montaño JM et al. 2011. A review on the dietary flavonoid kaempferol. PMID: 21428901
+6-Prenylnaringenin;CC(=CCC1=C(C2=C(C=C1O)OC(CC2=O)C3=CC=C(C=C3)O)O)C;Humulus lupulus;Zanoli P & Zavatti M. 2008. Pharmacognostic and pharmacological profile of Humulus lupulus L. PMID: 18446504
+Indoleacetic acid;C1=CC=C2C(=C1)C(=CN2)CC(=O)O;Humulus lupulus;Karabin M et al. 2015. Biologically active compounds from hops and prospects for their use. PMID: 26463615
+Hydroxycinnamic acid;C1=CC(=CC=C1C=CC(=O)O)O;Humulus lupulus;Karabin M et al. 2015. Biologically active compounds from hops and prospects for their use. PMID: 26463615
+Allo-aromadendrene;CC1CCC2C1C3C(C3(C)C)CCC2=C;Humulus lupulus;Zanoli P & Zavatti M. 2008. Pharmacognostic and pharmacological profile of Humulus lupulus L. PMID: 18446504
+Adhumulone;CCC(C)C(=O)C1=C(C(=C(C(C1=O)(CC=C(C)C)O)O)CC=C(C)C)O;Humulus lupulus;Van Cleemput M et al. 2009. Hop (Humulus lupulus L.): an update. PMID: 19674950
+Cannabidiol;CCCCCC1=CC(=C(C(=C1)O)C2C=C(CCC2C(=C)C)C)O;Humulus lupulus;Mechoulam R & Hanuš L. 2002. Cannabidiol: an overview of some pharmacological aspects. PMID: 12182960
+Gluconic acid;C(C(C(C(C(C(=O)O)O)O)O)O)O;Humulus lupulus;Karabin M et al. 2015. Biologically active compounds from hops and prospects for their use. PMID: 26463615
+Desmethylxanthohumol;CC(=CCC1=C(C(=C(C=C1O)O)C(=O)C=CC2=CC=C(C=C2)O)O)C;Humulus lupulus;Zanoli P & Zavatti M. 2008. Pharmacognostic and pharmacological profile of Humulus lupulus L. PMID: 18446504
+Catechin;C1C(C(OC2=CC(=CC(=C21)O)O)C3=CC(=C(C=C3)O)O)O;Humulus lupulus;Higdon JV & Frei B. 2003. Tea catechins and polyphenols: health effects, metabolism, and antioxidant functions. PMID: 12587987
+Geraniol;CC(=CCCC(=CCO)C)C;Humulus lupulus;Zanoli P & Zavatti M. 2008. Pharmacognostic and pharmacological profile of Humulus lupulus L. PMID: 18446504
+Farnesene;CC(=CCCC(=CCC=C(C)C=C)C)C;Humulus lupulus;Zanoli P & Zavatti M. 2008. Pharmacognostic and pharmacological profile of Humulus lupulus L. PMID: 18446504
+Adlupulone;CCC(C)C(=O)C1=C(C(=C(C(C1=O)(CC=C(C)C)CC=C(C)C)O)CC=C(C)C)O;Humulus lupulus;Zanoli P & Zavatti M. 2008. Pharmacognostic and pharmacological profile of Humulus lupulus L. PMID: 18446504
+Pinene;CC1=C2CC(C2(C)C)CC1;Humulus lupulus;Van Cleemput M et al. 2009. Hop (Humulus lupulus L.): an update. PMID: 19674950
+Isocohumulone;CC(C)C(=O)C1=C(C(C(C1=O)CC=C(C)C)(C(=O)CC=C(C)C)O)O;Humulus lupulus;Van Cleemput M et al. 2009. Hop (Humulus lupulus L.): an update. PMID: 19674950
+Caffeic acid;C1=CC(=C(C=C1C=CC(=O)O)O)O;Humulus lupulus;Karabin M et al. 2015. Biologically active compounds from hops and prospects for their use. PMID: 26463615
+Niflumic acid;C1=CC(=CC(=C1)NC2=C(C=CC=N2)C(=O)O)C(F)(F)F;Humulus lupulus;Karabin M et al. 2015. Biologically active compounds from hops and prospects for their use. PMID: 26463615
+Myrcene;CC(=CCCC(=C)C=C)C;Humulus lupulus;Russo EB. 2011. Taming THC: potential cannabis synergy and phytocannabinoid-terpenoid entourage effects. PMID: 21749363
+Humulinone;CC(C)CC(=O)C1=C(C(C(C1=O)(C(=O)CC=C(C)C)O)(CC=C(C)C)O)O;Humulus lupulus;Van Cleemput M et al. 2009. Hop (Humulus lupulus L.): an update. PMID: 19674950
+3-Hydroxyflavone;C1=CC=C(C=C1)C2=C(C(=O)C3=CC=CC=C3O2)O;Humulus lupulus;Stevens JF & Page JE. 2004. Xanthohumol and related prenylflavonoids from hops and beer. PMID: 15113149
+Beta-amyrin;CC1(CCC2(CCC3(C(=CCC4C3(CCC5C4(CCC(C5(C)C)O)C)C)C2C1)C)C)C;Trema micrantha;Barbosa-Filho JM et al. 2006. Plants and their active constituents from South, Central, and North America with hypoglycemic activity. PMID: 17072841
+Oleanolic acid;CC1(CCC2(CCC3(C(=CCC4C3(CCC5C4(CCC(C5(C)C)O)C)C)C2C1)C)C(=O)O)C;Trema micrantha;Diniz A et al. 2007. Chemical composition and antibacterial activity of essential oils of Trema micrantha. PMID: 17651078
+Kaempferol;C1=CC(=CC=C1C2=C(C(=O)C3=C(C=C(C=C3O2)O)O)O)O;Trema micrantha;Calderón-Montaño JM et al. 2011. A review on the dietary flavonoid kaempferol. PMID: 21428901
+Stigmasterol;CCC(C=CC(C)C1CCC2C1(CCC3C2CC=C4C3(CCC(C4)O)C)C)C(C)C;Trema micrantha;Kaur N et al. 2011. Stigmasterol: a comprehensive review. PMID: 21861781
+Lupeol;CC(=C)C1CCC2(C1C3CCC4C5(CCC(C(C5CCC4(C3(CC2)C)C)(C)C)O)C)C;Trema micrantha;Gallo MB & Sarachine MJ. 2009. Biological activities of lupeol. PMID: 19648666
+Scopoletin;COC1=C(C=C2C(=C1)C=CC(=O)O2)O;Trema micrantha;Pan R et al. 2009. Scopoletin exerts a neuroprotective effect on rat brain ischemia/reperfusion injury. PMID: 19429311
+Oleic acid;CCCCCCCCC=CCCCCCCCC(=O)O;Trema micrantha;Diniz A et al. 2007. Chemical composition and antibacterial activity of essential oils of Trema micrantha. PMID: 17651078
+Coumaroylquinic acid;C1C(C(C(CC1(C(=O)O)O)OC(=O)C=CC2=CC=C(C=C2)O)O)O;Trema micrantha;Diniz A et al. 2007. Chemical composition and antibacterial activity of essential oils of Trema micrantha. PMID: 17651078
+Taraxerol;CC1(CCC2(CC=C3C4(CCC5C(C(CCC5(C4CCC3(C2C1)C)C)O)(C)C)C)C)C;Trema micrantha;Barbosa-Filho JM et al. 2006. Plants and their active constituents from South, Central, and North America with hypoglycemic activity. PMID: 17072841
+Apigenin;C1=CC(=CC=C1C2=CC(=O)C3=C(C=C(C=C3O2)O)O)O;Trema micrantha;Sung B et al. 2016. The role of apigenin in cancer prevention and therapy. PMID: 27238146
+Gallic acid;C1=C(C=C(C(=C1O)O)O)C(=O)O;Trema micrantha;Diniz A et al. 2007. Chemical composition and antibacterial activity of essential oils of Trema micrantha. PMID: 17651078
+Stearic acid;CCCCCCCCCCCCCCCCCC(=O)O;Trema micrantha;Diniz A et al. 2007. Chemical composition and antibacterial activity of essential oils of Trema micrantha. PMID: 17651078
+Beta-sitosterol;CCC(CCC(C)C1CCC2C1(CCC3C2CC=C4C3(CCC(C4)O)C)C)C(C)C;Trema micrantha;Saeidnia S et al. 2014. The story of beta-sitosterol-a review. PMID: 24597555
+Salicin;C1=CC=C(C(=C1)CO)OC2C(C(C(C(O2)CO)O)O)O;Trema micrantha;Barbosa-Filho JM et al. 2006. Plants and their active constituents from South, Central, and North America with hypoglycemic activity. PMID: 17072841
+Palmitic acid;CCCCCCCCCCCCCCCC(=O)O;Trema micrantha;Diniz A et al. 2007. Chemical composition and antibacterial activity of essential oils of Trema micrantha. PMID: 17651078
+Tremulacin;C1CC(=O)C(C=C1)(C(=O)OCC2=CC=CC=C2OC3C(C(C(C(O3)CO)O)O)OC(=O)C4=CC=CC=C4)O;Trema micrantha;Pobłocka-Olech L et al. 2010. TLC and HPTLC determination of salicin in pharmacopeial and commercial preparations. PMID: 20922988
+Caffeic acid;C1=CC(=C(C=C1C=CC(=O)O)O)O;Trema micrantha;Diniz A et al. 2007. Chemical composition and antibacterial activity of essential oils of Trema micrantha. PMID: 17651078
+Ursolic acid;CC1CCC2(CCC3(C(=CCC4C3(CCC5C4(CCC(C5(C)C)O)C)C)C2C1C)C)C(=O)O;Trema micrantha;Liu J. 1995. Pharmacology of oleanolic acid and ursolic acid. PMID: 8847885
+Friedelin;CC1C(=O)CCC2C1(CCC3C2(CCC4(C3(CCC5(C4CC(CC5)(C)C)C)C)C)C)C;Trema micrantha;Barbosa-Filho JM et al. 2006. Plants and their active constituents from South, Central, and North America with hypoglycemic activity. PMID: 17072841
+Epifriedelinol;CC1C(CCC2C1(CCC3C2(CCC4(C3(CCC5(C4CC(CC5)(C)C)C)C)C)C)C)O;Trema micrantha;Barbosa-Filho JM et al. 2006. Plants and their active constituents from South, Central, and North America with hypoglycemic activity. PMID: 17072841
+Quercetin;C1=CC(=C(C=C1C2=C(C(=O)C3=C(C=C(C=C3O2)O)O)O)O)O;Trema micrantha;Walle T. 2004. Absorption and metabolism of flavonoids. PMID: 15387950
+Chlorogenic acid;C1C(C(C(CC1(C(=O)O)O)OC(=O)C=CC2=CC(=C(C=C2)O)O)O)O;Trema micrantha;Diniz A et al. 2007. Chemical composition and antibacterial activity of essential oils of Trema micrantha. PMID: 17651078
+Vanillic acid;COC1=C(C=CC(=C1)C(=O)O)O;Trema micrantha;Diniz A et al. 2007. Chemical composition and antibacterial activity of essential oils of Trema micrantha. PMID: 17651078
+Syringic acid;COC1=CC(=CC(=C1O)OC)C(=O)O;Trema micrantha;Diniz A et al. 2007. Chemical composition and antibacterial activity of essential oils of Trema micrantha. PMID: 17651078
+Cannabinoids;CCCCCC1=CC(=C(C(=C1)O)C2C=C(CCC2C(=C)C)C)O.CCCCCC1=CC(=C2C3C=C(CCC3C(OC2=C1)(C)C)C)O;Trema micrantha;Barbosa-Filho JM et al. 2006. Plants and their active constituents from South, Central, and North America with hypoglycemic activity. PMID: 17072841
+Linoleic acid;CCCCCC=CCC=CCCCCCCCC(=O)O;Trema micrantha;Diniz A et al. 2007. Chemical composition and antibacterial activity of essential oils of Trema micrantha. PMID: 17651078
+Vitexin;C1=CC(=CC=C1C2=CC(=O)C3=C(O2)C(=C(C=C3O)O)C4C(C(C(C(O4)CO)O)O)O)O;Cannabis sativa;El-Alfy AT et al. 2010. Antidepressant-like effect of delta9-tetrahydrocannabinol and other cannabinoids isolated from Cannabis sativa L. PMID: 20332000
+Jasmonic acid;CCC=CCC1C(CCC1=O)CC(=O)O;Cannabis sativa;El-Alfy AT et al. 2010. Antidepressant-like effect of delta9-tetrahydrocannabinol and other cannabinoids isolated from Cannabis sativa L. PMID: 20332000
+Olivetolic acid;CCCCCC1=C(C(=CC(=C1)O)O)C(=O)O;Cannabis sativa;El-Alfy AT et al. 2010. Antidepressant-like effect of delta9-tetrahydrocannabinol and other cannabinoids isolated from Cannabis sativa L. PMID: 20332000
+Beta-pinene;CC1(C2CCC(=C)C1C2)C;Cannabis sativa;Russo EB. 2011. Taming THC: potential cannabis synergy and phytocannabinoid-terpenoid entourage effects. PMID: 21749363
+Alpha-pinene;CC1=CCC2CC1C2(C)C;Cannabis sativa;Satou T et al. 2014. Anxiolytic-like effect of essential oil extracted from Abies sachalinensis. PMID: 24300085
+Hydroxybenzoic acid;C1=CC(=CC=C1C(=O)O)O;Cannabis sativa;El-Alfy AT et al. 2010. Antidepressant-like effect of delta9-tetrahydrocannabinol and other cannabinoids isolated from Cannabis sativa L. PMID: 20332000
+Glucaric acid;C(C(C(C(=O)O)O)O)(C(C(=O)O)O)O;Cannabis sativa;El-Alfy AT et al. 2010. Antidepressant-like effect of delta9-tetrahydrocannabinol and other cannabinoids isolated from Cannabis sativa L. PMID: 20332000
+Salicylic acid;C1=CC=C(C(=C1)C(=O)O)O;Cannabis sativa;El-Alfy AT et al. 2010. Antidepressant-like effect of delta9-tetrahydrocannabinol and other cannabinoids isolated from Cannabis sativa L. PMID: 20332000
+Cannabichromenic acid;CCCCCC1=CC2=C(C=CC(O2)(C)CCC=C(C)C)C(=C1C(=O)O)O;Cannabis sativa;El-Alfy AT et al. 2010. Antidepressant-like effect of delta9-tetrahydrocannabinol and other cannabinoids isolated from Cannabis sativa L. PMID: 20332000
+Tetrahydrocannabivarin;CCCC1=CC(=C2C3C=C(CCC3C(OC2=C1)(C)C)C)O;Cannabis sativa;El-Alfy AT et al. 2010. Antidepressant-like effect of delta9-tetrahydrocannabinol and other cannabinoids isolated from Cannabis sativa L. PMID: 20332000
+Ascorbic acid;C(C(C1C(=C(C(=O)O1)O)O)O)O;Cannabis sativa;El-Alfy AT et al. 2010. Antidepressant-like effect of delta9-tetrahydrocannabinol and other cannabinoids isolated from Cannabis sativa L. PMID: 20332000
+Orientin;C1=CC(=C(C=C1C2=CC(=O)C3=C(O2)C(=C(C=C3O)O)C4C(C(C(C(O4)CO)O)O)O)O)O;Cannabis sativa;El-Alfy AT et al. 2010. Antidepressant-like effect of delta9-tetrahydrocannabinol and other cannabinoids isolated from Cannabis sativa L. PMID: 20332000
+Limonene;CC1=CCC(CC1)C(=C)C;Cannabis sativa;Sun J. 2007. D-Limonene: safety and clinical applications. PMID: 17913836
+Benzoic acid;C1=CC=C(C=C1)C(=O)O;Cannabis sativa;El-Alfy AT et al. 2010. Antidepressant-like effect of delta9-tetrahydrocannabinol and other cannabinoids isolated from Cannabis sativa L. PMID: 20332000
+Homovanillic acid;COC1=C(C=CC(=C1)CC(=O)O)O;Cannabis sativa;El-Alfy AT et al. 2010. Antidepressant-like effect of delta9-tetrahydrocannabinol and other cannabinoids isolated from Cannabis sativa L. PMID: 20332000
+Cannflavin B;CC(=CCC1=C(C2=C(C=C1O)OC(=CC2=O)C3=CC(=C(C=C3)O)OC)O)C;Cannabis sativa;Flores-Sanchez IJ & Verpoorte R. 2008. Secondary metabolism in cannabis. PMID: 18277609
+Acetic acid;CC(=O)O;Cannabis sativa;El-Alfy AT et al. 2010. Antidepressant-like effect of delta9-tetrahydrocannabinol and other cannabinoids isolated from Cannabis sativa L. PMID: 20332000
+p-Coumaric acid;C1=CC(=CC=C1C=CC(=O)O)O;Cannabis sativa;El-Alfy AT et al. 2010. Antidepressant-like effect of delta9-tetrahydrocannabinol and other cannabinoids isolated from Cannabis sativa L. PMID: 20332000
+Terpineol;CC1=CCC(CC1)C(C)(C)O;Cannabis sativa;El-Alfy AT et al. 2010. Antidepressant-like effect of delta9-tetrahydrocannabinol and other cannabinoids isolated from Cannabis sativa L. PMID: 20332000
+Caryophyllene oxide;CC1(CC2C1CCC3(C(O3)CCC2=C)C)C;Cannabis sativa;Russo EB. 2011. Taming THC: potential cannabis synergy and phytocannabinoid-terpenoid entourage effects. PMID: 21749363
+Chlorogenic acid;C1C(C(C(CC1(C(=O)O)O)OC(=O)C=CC2=CC(=C(C=C2)O)O)O)O;Cannabis sativa;El-Alfy AT et al. 2010. Antidepressant-like effect of delta9-tetrahydrocannabinol and other cannabinoids isolated from Cannabis sativa L. PMID: 20332000
+Cannabinoids;CCCCCC1=CC(=C(C(=C1)O)C2C=C(CCC2C(=C)C)C)O.CCCCCC1=CC(=C2C3C=C(CCC3C(OC2=C1)(C)C)C)O;Cannabis sativa;Aizpurua-Olaizola O et al. 2016. Evolution of the cannabinoid and terpene content during the growth of Cannabis sativa plants. PMID: 26836472
+Adrenic acid;CCCCCC=CCC=CCC=CCC=CCCCCCC(=O)O;Cannabis sativa;El-Alfy AT et al. 2010. Antidepressant-like effect of delta9-tetrahydrocannabinol and other cannabinoids isolated from Cannabis sativa L. PMID: 20332000
+Cannabichromene;CCCCCC1=CC(=C2C=CC(OC2=C1)(C)CCC=C(C)C)O;Cannabis sativa;Gaoni Y & Mechoulam R. 1966. Cannabichromene, a new active principle in hashish. Chem Commun 1:20-21
+Linoleic acid;CCCCCC=CCC=CCCCCCCCC(=O)O;Cannabis sativa;El-Alfy AT et al. 2010. Antidepressant-like effect of delta9-tetrahydrocannabinol and other cannabinoids isolated from Cannabis sativa L. PMID: 20332000
+Linalool;CC(=CCCC(C)(C=C)O)C;Cannabis sativa;Linck VM et al. 2010. Effects of inhaled Linalool in anxiety, social interaction and aggressive behavior in mice. PMID: 20034540
+Linolenic acid;CCC=CCC=CCC=CCCCCCCCC(=O)O;Cannabis sativa;El-Alfy AT et al. 2010. Antidepressant-like effect of delta9-tetrahydrocannabinol and other cannabinoids isolated from Cannabis sativa L. PMID: 20332000
+Isovitexin;C1=CC(=CC=C1C2=CC(=O)C3=C(O2)C=C(C(=C3O)C4C(C(C(C(O4)CO)O)O)O)O)O;Cannabis sativa;El-Alfy AT et al. 2010. Antidepressant-like effect of delta9-tetrahydrocannabinol and other cannabinoids isolated from Cannabis sativa L. PMID: 20332000
+Cannabidiolic acid;CCCCCC1=CC(=C(C(=C1C(=O)O)O)C2C=C(CCC2C(=C)C)C)O;Cannabis sativa;Taura F et al. 2007. Cannabidiolic-acid synthase, the chemotype-determining enzyme in the fiber-type Cannabis sativa. PMID: 17544411
+Terpinene;C.C.C.CC1=CC=C(CC1)C(C)C.CC1=CCC(=CC1)C(C)C.CC(C)C1=CCC(=C)CC1;Cannabis sativa;Russo EB. 2011. Taming THC: potential cannabis synergy and phytocannabinoid-terpenoid entourage effects. PMID: 21749363
+Humic acid;C1C2C=CC1C(C2C(=O)O)(C(=O)O)[N+](=O)[O-];Cannabis sativa;El-Alfy AT et al. 2010. Antidepressant-like effect of delta9-tetrahydrocannabinol and other cannabinoids isolated from Cannabis sativa L. PMID: 20332000
+Isoxazolepropionic acid;C1=CON=C1CCC(=O)O;Cannabis sativa;El-Alfy AT et al. 2010. Antidepressant-like effect of delta9-tetrahydrocannabinol and other cannabinoids isolated from Cannabis sativa L. PMID: 20332000
+Tetrahydrocannabinolic acid;CCCCCC1=CC(=C2C3C=C(C=CC3C(OC2(C1)C(=O)O)(C)C)C)O;Cannabis sativa;Sirikantaramas S et al. 2004. The gene controlling marijuana psychoactivity: molecular cloning and heterologous expression of Δ1-tetrahydrocannabinolic acid synthase. PMID: 15190053
+Isochlorogenic acid;C1C(C(C(CC1(C(=O)O)O)OC(=O)C=CC2=CC(=C(C=C2)O)O)O)O;Cannabis sativa;El-Alfy AT et al. 2010. Antidepressant-like effect of delta9-tetrahydrocannabinol and other cannabinoids isolated from Cannabis sativa L. PMID: 20332000
+Apigenin;C1=CC(=CC=C1C2=CC(=O)C3=C(C=C(C=C3O2)O)O)O;Cannabis sativa;Sung B et al. 2016. The role of apigenin in cancer prevention and therapy. PMID: 27238146
+Cannabigerovarin;CCCC1=CC(=C(C(=C1)O)CC=C(C)CCC=C(C)C)O;Cannabis sativa;El-Alfy AT et al. 2010. Antidepressant-like effect of delta9-tetrahydrocannabinol and other cannabinoids isolated from Cannabis sativa L. PMID: 20332000
+Alpha-humulene;CC1=CCC(C=CCC(=CCC1)C)(C)C;Cannabis sativa;Rogerio AP et al. 2009. Anti-inflammatory effects of Lafoensia pacari and ellagic acid in a murine model of asthma. PMID: 19464569
+Beta-caryophyllene;CC1=CCCC(=C)C2CC(C2CC1)(C)C;Cannabis sativa;Gertsch J et al. 2008. Beta-caryophyllene is a dietary cannabinoid. PMID: 18574142
+Cannabicyclol;CCCCCC1=CC(=C2C3C4C(C3(C)C)CCC4(OC2=C1)C)O;Cannabis sativa;El-Alfy AT et al. 2010. Antidepressant-like effect of delta9-tetrahydrocannabinol and other cannabinoids isolated from Cannabis sativa L. PMID: 20332000
+Cannabichromevarin;CCCC1=CC(=C2C=CC(OC2=C1)(C)CCC=C(C)C)O;Cannabis sativa;El-Alfy AT et al. 2010. Antidepressant-like effect of delta9-tetrahydrocannabinol and other cannabinoids isolated from Cannabis sativa L. PMID: 20332000
+Eucalyptol;CC1(C2CCC(O1)(CC2)C)C;Cannabis sativa;El-Alfy AT et al. 2010. Antidepressant-like effect of delta9-tetrahydrocannabinol and other cannabinoids isolated from Cannabis sativa L. PMID: 20332000
+Borneol;CC1(C2CCC1(C(C2)O)C)C;Cannabis sativa;El-Alfy AT et al. 2010. Antidepressant-like effect of delta9-tetrahydrocannabinol and other cannabinoids isolated from Cannabis sativa L. PMID: 20332000
+Nerolidol;CC(=CCCC(=CCCC(C)(C=C)O)C)C;Cannabis sativa;El-Alfy AT et al. 2010. Antidepressant-like effect of delta9-tetrahydrocannabinol and other cannabinoids isolated from Cannabis sativa L. PMID: 20332000
+Vanillic acid;COC1=C(C=CC(=C1)C(=O)O)O;Cannabis sativa;El-Alfy AT et al. 2010. Antidepressant-like effect of delta9-tetrahydrocannabinol and other cannabinoids isolated from Cannabis sativa L. PMID: 20332000
+Abscisic acid;CC1=CC(=O)CC(C1(C=CC(=CC(=O)O)C)O)(C)C;Cannabis sativa;El-Alfy AT et al. 2010. Antidepressant-like effect of delta9-tetrahydrocannabinol and other cannabinoids isolated from Cannabis sativa L. PMID: 20332000
+Ocimene;CC(=CCC=C(C)C=C)C;Cannabis sativa;El-Alfy AT et al. 2010. Antidepressant-like effect of delta9-tetrahydrocannabinol and other cannabinoids isolated from Cannabis sativa L. PMID: 20332000
+Caryophyllene;CC1=CCCC(=C)C2CC(C2CC1)(C)C;Cannabis sativa;Russo EB. 2011. Taming THC: potential cannabis synergy and phytocannabinoid-terpenoid entourage effects. PMID: 21749363
+Ferulic acid;COC1=C(C=CC(=C1)C=CC(=O)O)O;Cannabis sativa;El-Alfy AT et al. 2010. Antidepressant-like effect of delta9-tetrahydrocannabinol and other cannabinoids isolated from Cannabis sativa L. PMID: 20332000
+Cannflavin C;CC(=CCCC(=CCC1=C2C(=C(C=C1O)O)C(=O)C=C(O2)C3=CC(=C(C=C3)O)OC)C)C;Cannabis sativa;Flores-Sanchez IJ & Verpoorte R. 2008. Secondary metabolism in cannabis. PMID: 18277609
+Humulene;CC1=CCC(C=CCC(=CCC1)C)(C)C;Cannabis sativa;Russo EB. 2011. Taming THC: potential cannabis synergy and phytocannabinoid-terpenoid entourage effects. PMID: 21749363
+Bisabolol;CC1=CCC(CC1)C(C)(CCC=C(C)C)O;Cannabis sativa;El-Alfy AT et al. 2010. Antidepressant-like effect of delta9-tetrahydrocannabinol and other cannabinoids isolated from Cannabis sativa L. PMID: 20332000
+Fenchol;CC1(C2CCC(C2)(C1O)C)C;Cannabis sativa;El-Alfy AT et al. 2010. Antidepressant-like effect of delta9-tetrahydrocannabinol and other cannabinoids isolated from Cannabis sativa L. PMID: 20332000
+Luteolin;C1=CC(=C(C=C1C2=CC(=O)C3=C(C=C(C=C3O2)O)O)O)O;Cannabis sativa;López-Lázaro M. 2009. Distribution and biological activities of the flavonoid luteolin. PMID: 19881439
+Terpinolene;CC1=CCC(=C(C)C)CC1;Cannabis sativa;El-Alfy AT et al. 2010. Antidepressant-like effect of delta9-tetrahydrocannabinol and other cannabinoids isolated from Cannabis sativa L. PMID: 20332000
+D-limonene;CC1=CCC(CC1)C(=C)C;Cannabis sativa;Russo EB. 2011. Taming THC: potential cannabis synergy and phytocannabinoid-terpenoid entourage effects. PMID: 21749363
+Valencene;CC1CCC=C2C1(CC(CC2)C(=C)C)C;Cannabis sativa;El-Alfy AT et al. 2010. Antidepressant-like effect of delta9-tetrahydrocannabinol and other cannabinoids isolated from Cannabis sativa L. PMID: 20332000
+Quercetin;C1=CC(=C(C=C1C2=C(C(=O)C3=C(C=C(C=C3O2)O)O)O)O)O;Cannabis sativa;Walle T. 2004. Absorption and metabolism of flavonoids. PMID: 15387950
+Rutin;CC1C(C(C(C(O1)OCC2C(C(C(C(O2)OC3=C(OC4=CC(=CC(=C4C3=O)O)O)C5=CC(=C(C=C5)O)O)O)O)O)O)O)O;Cannabis sativa;Ganeshpurkar A & Saluja AK. 2017. The pharmacological potential of rutin. PMID: 27956539
+Sinapic acid;COC1=CC(=CC(=C1O)OC)C=CC(=O)O;Cannabis sativa;El-Alfy AT et al. 2010. Antidepressant-like effect of delta9-tetrahydrocannabinol and other cannabinoids isolated from Cannabis sativa L. PMID: 20332000
+Kaempferol;C1=CC(=CC=C1C2=C(C(=O)C3=C(C=C(C=C3O2)O)O)O)O;Cannabis sativa;Calderón-Montaño JM et al. 2011. A review on the dietary flavonoid kaempferol. PMID: 21428901
+Cannabinol;CCCCCC1=CC(=C2C(=C1)OC(C3=C2C=C(C=C3)C)(C)C)O;Cannabis sativa;Turner CE et al. 1980. Constituents of Cannabis sativa L. XVII. A review of the natural constituents. PMID: 6991645
+Cannabicitran;CCCCCC1=CC2=C3C4CC(CCC4C(O2)(C)C)(OC3=C1)C;Cannabis sativa;El-Alfy AT et al. 2010. Antidepressant-like effect of delta9-tetrahydrocannabinol and other cannabinoids isolated from Cannabis sativa L. PMID: 20332000
+Tetrahydrocannabinol;CCCCCC1=CC(=C2C3C=C(CCC3C(OC2=C1)(C)C)C)O;Cannabis sativa;Gaoni Y & Mechoulam R. 1964. Isolation, structure, and partial synthesis of an active constituent of hashish. J Am Chem Soc 86(8):1646-1647
+Indoleacetic acid;C1=CC=C2C(=C1)C(=CN2)CC(=O)O;Cannabis sativa;El-Alfy AT et al. 2010. Antidepressant-like effect of delta9-tetrahydrocannabinol and other cannabinoids isolated from Cannabis sativa L. PMID: 20332000
+Hydroxycinnamic acid;C1=CC(=CC=C1C=CC(=O)O)O;Cannabis sativa;El-Alfy AT et al. 2010. Antidepressant-like effect of delta9-tetrahydrocannabinol and other cannabinoids isolated from Cannabis sativa L. PMID: 20332000
+Cannabigerol;CCCCCC1=CC(=C(C(=C1)O)CC=C(C)CCC=C(C)C)O;Cannabis sativa;Fellermeier M & Zenk MH. 1998. Prenylation of olivetolate by a hemp transferase yields cannabigerolic acid. PMID: 9753285
+Phytol;CC(C)CCCC(C)CCCC(C)CCCC(=CCO)C;Cannabis sativa;El-Alfy AT et al. 2010. Antidepressant-like effect of delta9-tetrahydrocannabinol and other cannabinoids isolated from Cannabis sativa L. PMID: 20332000
+Cannabidiol;CCCCCC1=CC(=C(C(=C1)O)C2C=C(CCC2C(=C)C)C)O;Cannabis sativa;Mechoulam R & Hanuš L. 2002. Cannabidiol: an overview of some pharmacological aspects. PMID: 12182960
+Cannflavin A;CC(=CCCC(=CCC1=C(C2=C(C=C1O)OC(=CC2=O)C3=CC(=C(C=C3)O)OC)O)C)C;Cannabis sativa;Flores-Sanchez IJ & Verpoorte R. 2008. Secondary metabolism in cannabis. PMID: 18277609
+Cannabidivarin;CCCC1=CC(=C(C(=C1)O)C2C=C(CCC2C(=C)C)C)O;Cannabis sativa;El-Alfy AT et al. 2010. Antidepressant-like effect of delta9-tetrahydrocannabinol and other cannabinoids isolated from Cannabis sativa L. PMID: 20332000
+Guaiol;CC1CCC(CC2=C1CCC2C)C(C)(C)O;Cannabis sativa;El-Alfy AT et al. 2010. Antidepressant-like effect of delta9-tetrahydrocannabinol and other cannabinoids isolated from Cannabis sativa L. PMID: 20332000
+Geraniol;CC(=CCCC(=CCO)C)C;Cannabis sativa;El-Alfy AT et al. 2010. Antidepressant-like effect of delta9-tetrahydrocannabinol and other cannabinoids isolated from Cannabis sativa L. PMID: 20332000
+Gibberellic acid;CC12C(C=CC3(C1C(C45C3CCC(C4)(C(=C)C5)O)C(=O)O)OC2=O)O;Cannabis sativa;El-Alfy AT et al. 2010. Antidepressant-like effect of delta9-tetrahydrocannabinol and other cannabinoids isolated from Cannabis sativa L. PMID: 20332000
+Pinene;CC1=C2CC(C2(C)C)CC1;Cannabis sativa;Russo EB. 2011. Taming THC: potential cannabis synergy and phytocannabinoid-terpenoid entourage effects. PMID: 21749363
+Caffeic acid;C1=CC(=C(C=C1C=CC(=O)O)O)O;Cannabis sativa;El-Alfy AT et al. 2010. Antidepressant-like effect of delta9-tetrahydrocannabinol and other cannabinoids isolated from Cannabis sativa L. PMID: 20332000
+Carene;CC1=CCC2C(C1)C2(C)C;Cannabis sativa;El-Alfy AT et al. 2010. Antidepressant-like effect of delta9-tetrahydrocannabinol and other cannabinoids isolated from Cannabis sativa L. PMID: 20332000
+Cannabigerolic acid;CCCCCC1=CC(=C(C(=C1C(=O)O)O)CC=C(C)CCC=C(C)C)O;Cannabis sativa;El-Alfy AT et al. 2010. Antidepressant-like effect of delta9-tetrahydrocannabinol and other cannabinoids isolated from Cannabis sativa L. PMID: 20332000
+Myrcene;CC(=CCCC(=C)C=C)C;Cannabis sativa;Russo EB. 2011. Taming THC: potential cannabis synergy and phytocannabinoid-terpenoid entourage effects. PMID: 21749363
+Camphene;CC1(C2CCC(C2)C1=C)C;Cannabis sativa;El-Alfy AT et al. 2010. Antidepressant-like effect of delta9-tetrahydrocannabinol and other cannabinoids isolated from Cannabis sativa L. PMID: 20332000
+Syringic acid;COC1=CC(=CC(=C1O)OC)C(=O)O;Cannabis sativa;El-Alfy AT et al. 2010. Antidepressant-like effect of delta9-tetrahydrocannabinol and other cannabinoids isolated from Cannabis sativa L. PMID: 20332000
+Cannabitriol;CCCCCC1=CC(=C2C(=C1)OC(C3=C2C(C(CC3)(C)O)O)(C)C)O;Cannabis sativa;El-Alfy AT et al. 2010. Antidepressant-like effect of delta9-tetrahydrocannabinol and other cannabinoids isolated from Cannabis sativa L. PMID: 20332000
+Delta-8-tetrahydrocannabinol;CCCCCC1=CC(=C2C3CC(=CCC3C(OC2=C1)(C)C)C)O;Cannabis sativa;Aizpurua-Olaizola O et al. 2016. Evolution of the cannabinoid and terpene content during the growth of Cannabis sativa plants. PMID: 26836472
+Xanthohumol B;CC1(C(CC2=C(C(=C(C=C2O1)OC)C(=O)C=CC3=CC=C(C=C3)O)O)O)C;Humulus lupulus;Zanoli P & Zavatti M. 2008. Pharmacognostic and pharmacological profile of Humulus lupulus L. PMID: 18446504
+Xanthohumol C;CC1(C=CC2=C(C(=C(C=C2O1)OC)C(=O)C=CC3=CC=C(C=C3)O)O)C;Humulus lupulus;Zanoli P & Zavatti M. 2008. Pharmacognostic and pharmacological profile of Humulus lupulus L. PMID: 18446504
+Xanthohumol D;CC(=C)C(CC1=C(C(=C(C=C1O)OC)C(=O)C=CC2=CC=C(C=C2)O)O)O;Humulus lupulus;Zanoli P & Zavatti M. 2008. Pharmacognostic and pharmacological profile of Humulus lupulus L. PMID: 18446504
+Xanthohumol E;CC(=CCC1=C(C(=C2C(=C1O)C=CC(O2)(C)C)C(=O)C=CC3=CC=C(C=C3)O)O)C;Humulus lupulus;Zanoli P & Zavatti M. 2008. Pharmacognostic and pharmacological profile of Humulus lupulus L. PMID: 18446504
+Xanthohumol H;CC(C)(CCC1=C(C(=C(C=C1O)OC)C(=O)C=CC2=CC=C(C=C2)O)O)O;Humulus lupulus;Zanoli P & Zavatti M. 2008. Pharmacognostic and pharmacological profile of Humulus lupulus L. PMID: 18446504
+Xanthohumol I;CC(C)(C1CC2=C(O1)C(=C(C=C2O)OC)C(=O)C=CC3=CC=C(C=C3)O)O;Humulus lupulus;Zanoli P & Zavatti M. 2008. Pharmacognostic and pharmacological profile of Humulus lupulus L. PMID: 18446504
+Dehydrocycloxanthohumol;CC1(C=CC2=C(C(=C(C=C2O1)OC)C(=O)C=CC3=CC=C(C=C3)O)O)C;Humulus lupulus;Zanoli P & Zavatti M. 2008. Pharmacognostic and pharmacological profile of Humulus lupulus L. PMID: 18446504
+Isoquercitrin;C1=CC(=C(C=C1C2=C(C(=O)C3=C(C=C(C=C3O2)O)O)OC4C(C(C(C(O4)CO)O)O)O)O)O;Humulus lupulus;Zanoli P & Zavatti M. 2008. Pharmacognostic and pharmacological profile of Humulus lupulus L. PMID: 18446504
+Astragalin;C1=CC(=CC=C1C2=C(C(=O)C3=C(C=C(C=C3O2)O)O)OC4C(C(C(C(O4)CO)O)O)O)O;Humulus lupulus;Zanoli P & Zavatti M. 2008. Pharmacognostic and pharmacological profile of Humulus lupulus L. PMID: 18446504
+cis-Isohumulone;CC(C)CC(=O)C1=C(C(C(C1=O)CC=C(C)C)(C(=O)CC=C(C)C)O)O;Humulus lupulus;Van Cleemput M et al. 2009. Hop (Humulus lupulus L.): an update. PMID: 19674950
+trans-Isohumulone;CC(C)CC(=O)C1=C(C(C(C1=O)CC=C(C)C)(C(=O)CC=C(C)C)O)O;Humulus lupulus;Van Cleemput M et al. 2009. Hop (Humulus lupulus L.): an update. PMID: 19674950
+cis-Isocohumulone;CC(C)C(=O)C1=C(C(C(C1=O)CC=C(C)C)(C(=O)CC=C(C)C)O)O;Humulus lupulus;Van Cleemput M et al. 2009. Hop (Humulus lupulus L.): an update. PMID: 19674950
+trans-Isocohumulone;CC(C)C(=O)C1=C(C(C(C1=O)CC=C(C)C)(C(=O)CC=C(C)C)O)O;Humulus lupulus;Van Cleemput M et al. 2009. Hop (Humulus lupulus L.): an update. PMID: 19674950
+trans-Isoadhumulone;CCC(C)C(=O)C1=C(C(C(C1=O)CC=C(C)C)(C(=O)CC=C(C)C)O)O;Humulus lupulus;Van Cleemput M et al. 2009. Hop (Humulus lupulus L.): an update. PMID: 19674950
+Tetrahydroisohumulone;CC(C)CCC1C(=O)C(=C(C1(C(=O)CCC(C)C)O)O)C(=O)CC(C)C;Humulus lupulus;Van Cleemput M et al. 2009. Hop (Humulus lupulus L.): an update. PMID: 19674950
+Hexahydroisohumulone;CC(C)CCC(C1(C(C(C(=C1O)C(=O)CC(C)C)O)CC=C(C)C)O)O;Humulus lupulus;Van Cleemput M et al. 2009. Hop (Humulus lupulus L.): an update. PMID: 19674950
+Hexahydroisocohumulone;CC(C)CCC(C1(C(C(C(=C1O)C(=O)C(C)C)O)CC=C(C)C)O)O;Humulus lupulus;Van Cleemput M et al. 2009. Hop (Humulus lupulus L.): an update. PMID: 19674950
+Hexahydroisoadhumulone;CCC(C)C(=O)C1=C(C(C(C1O)CCC(C)C)(C(=O)CCC(C)C)O)O;Humulus lupulus;Van Cleemput M et al. 2009. Hop (Humulus lupulus L.): an update. PMID: 19674950
+Hexahydrocolupulone;CC(C)C(=O)C1C(C(C(=O)C(C1O)(CC=C(C)C)CC=C(C)C)CC=C(C)C)O;Humulus lupulus;Zanoli P & Zavatti M. 2008. Pharmacognostic and pharmacological profile of Humulus lupulus L. PMID: 18446504
+Nerol;CC(=CCCC(=CCO)C)C;Humulus lupulus;Zanoli P & Zavatti M. 2008. Pharmacognostic and pharmacological profile of Humulus lupulus L. PMID: 18446504
+Citronellol;CC(CCC=C(C)C)CCO;Humulus lupulus;Zanoli P & Zavatti M. 2008. Pharmacognostic and pharmacological profile of Humulus lupulus L. PMID: 18446504
+Geranyl acetate;CC(=CCCC(=CCOC(=O)C)C)C;Humulus lupulus;Zanoli P & Zavatti M. 2008. Pharmacognostic and pharmacological profile of Humulus lupulus L. PMID: 18446504
+Geranyl propionate;CCC(=O)OCC=C(C)CCC=C(C)C;Humulus lupulus;Zanoli P & Zavatti M. 2008. Pharmacognostic and pharmacological profile of Humulus lupulus L. PMID: 18446504
+Geranyl butyrate;CCCC(=O)OCC=C(C)CCC=C(C)C;Humulus lupulus;Zanoli P & Zavatti M. 2008. Pharmacognostic and pharmacological profile of Humulus lupulus L. PMID: 18446504
+Bisabolene;CC1=CCC(=C(C)CCC=C(C)C)CC1;Humulus lupulus;Zanoli P & Zavatti M. 2008. Pharmacognostic and pharmacological profile of Humulus lupulus L. PMID: 18446504
+Bisabolol;CC1=CCC(CC1)C(C)(CCC=C(C)C)O;Humulus lupulus;Zanoli P & Zavatti M. 2008. Pharmacognostic and pharmacological profile of Humulus lupulus L. PMID: 18446504
+Alpha-terpineol;CC1=CCC(CC1)C(C)(C)O;Humulus lupulus;Zanoli P & Zavatti M. 2008. Pharmacognostic and pharmacological profile of Humulus lupulus L. PMID: 18446504
+Beta-terpineol;CC(=C)C1CCC(CC1)(C)O;Humulus lupulus;Zanoli P & Zavatti M. 2008. Pharmacognostic and pharmacological profile of Humulus lupulus L. PMID: 18446504
+Gamma-terpineol;CC(=C1CCC(CC1)(C)O)C;Humulus lupulus;Zanoli P & Zavatti M. 2008. Pharmacognostic and pharmacological profile of Humulus lupulus L. PMID: 18446504
+Delta-terpineol;CC(C)(C1CCC(=C)CC1)O;Humulus lupulus;Zanoli P & Zavatti M. 2008. Pharmacognostic and pharmacological profile of Humulus lupulus L. PMID: 18446504
+Terpinolene;CC1=CCC(=C(C)C)CC1;Humulus lupulus;Zanoli P & Zavatti M. 2008. Pharmacognostic and pharmacological profile of Humulus lupulus L. PMID: 18446504
+Alpha-terpinene;CC1=CC=C(CC1)C(C)C;Humulus lupulus;Van Cleemput M et al. 2009. Hop (Humulus lupulus L.): an update. PMID: 19674950
+Beta-terpinene;CC(C)C1=CCC(=C)CC1;Humulus lupulus;Van Cleemput M et al. 2009. Hop (Humulus lupulus L.): an update. PMID: 19674950
+Gamma-terpinene;CC1=CCC(=CC1)C(C)C;Humulus lupulus;Van Cleemput M et al. 2009. Hop (Humulus lupulus L.): an update. PMID: 19674950
+Delta-terpinene;CC1=CCC(=C(C)C)CC1;Humulus lupulus;Van Cleemput M et al. 2009. Hop (Humulus lupulus L.): an update. PMID: 19674950
+Humulene epoxide I;CC1=CCC(C=CCC2(C(O2)CC1)C)(C)C;Humulus lupulus;Van Cleemput M et al. 2009. Hop (Humulus lupulus L.): an update. PMID: 19674950
+Humulene epoxide II;CC1=CCC(C=CCC2(C(O2)CC1)C)(C)C;Humulus lupulus;Van Cleemput M et al. 2009. Hop (Humulus lupulus L.): an update. PMID: 19674950
+p-Hydroxybenzoic acid;C1=CC(=CC=C1C(=O)O)O;Humulus lupulus;Karabin M et al. 2015. Biologically active compounds from hops and prospects for their use. PMID: 26463615
+Syringic acid;COC1=CC(=CC(=C1O)OC)C(=O)O;Humulus lupulus;Karabin M et al. 2015. Biologically active compounds from hops and prospects for their use. PMID: 26463615
+Cinnamic acid;C1=CC=C(C=C1)C=CC(=O)O;Humulus lupulus;Karabin M et al. 2015. Biologically active compounds from hops and prospects for their use. PMID: 26463615
+Salicylic acid;C1=CC=C(C(=C1)C(=O)O)O;Humulus lupulus;Karabin M et al. 2015. Biologically active compounds from hops and prospects for their use. PMID: 26463615
+Gentisic acid;C1=CC(=C(C=C1O)C(=O)O)O;Humulus lupulus;Karabin M et al. 2015. Biologically active compounds from hops and prospects for their use. PMID: 26463615
+Homovanillic acid;COC1=C(C=CC(=C1)CC(=O)O)O;Humulus lupulus;Karabin M et al. 2015. Biologically active compounds from hops and prospects for their use. PMID: 26463615
+Ellagic acid;C1=C2C3=C(C(=C1O)O)OC(=O)C4=CC(=C(C(=C43)OC2=O)O)O;Humulus lupulus;Karabin M et al. 2015. Biologically active compounds from hops and prospects for their use. PMID: 26463615
+p-Anisic acid;COC1=CC=C(C=C1)C(=O)O;Humulus lupulus;Karabin M et al. 2015. Biologically active compounds from hops and prospects for their use. PMID: 26463615
+o-Anisic acid;COC1=CC=CC=C1C(=O)O;Humulus lupulus;Karabin M et al. 2015. Biologically active compounds from hops and prospects for their use. PMID: 26463615
+m-Anisic acid;COC1=CC=CC(=C1)C(=O)O;Humulus lupulus;Karabin M et al. 2015. Biologically active compounds from hops and prospects for their use. PMID: 26463615
+Ascorbic acid;C(C(C1C(=C(C(=O)O1)O)O)O)O;Humulus lupulus;Karabin M et al. 2015. Biologically active compounds from hops and prospects for their use. PMID: 26463615
+Succinic acid;C(CC(=O)O)C(=O)O;Humulus lupulus;Karabin M et al. 2015. Biologically active compounds from hops and prospects for their use. PMID: 26463615
+Glutamic acid;C(CC(=O)O)C(C(=O)O)N;Humulus lupulus;Karabin M et al. 2015. Biologically active compounds from hops and prospects for their use. PMID: 26463615
+Alpha-linolenic acid;CCC=CCC=CCC=CCCCCCCCC(=O)O;Humulus lupulus;Karabin M et al. 2015. Biologically active compounds from hops and prospects for their use. PMID: 26463615
+Linoleic acid;CCCCCC=CCC=CCCCCCCCC(=O)O;Humulus lupulus;Karabin M et al. 2015. Biologically active compounds from hops and prospects for their use. PMID: 26463615
+Oleic acid;CCCCCCCCC=CCCCCCCCC(=O)O;Humulus lupulus;Karabin M et al. 2015. Biologically active compounds from hops and prospects for their use. PMID: 26463615
+Palmitic acid;CCCCCCCCCCCCCCCC(=O)O;Humulus lupulus;Karabin M et al. 2015. Biologically active compounds from hops and prospects for their use. PMID: 26463615
+Stearic acid;CCCCCCCCCCCCCCCCCC(=O)O;Humulus lupulus;Karabin M et al. 2015. Biologically active compounds from hops and prospects for their use. PMID: 26463615
+Arachidic acid;CCCCCCCCCCCCCCCCCCCC(=O)O;Humulus lupulus;Karabin M et al. 2015. Biologically active compounds from hops and prospects for their use. PMID: 26463615
+Behenic acid;CCCCCCCCCCCCCCCCCCCCCC(=O)O;Humulus lupulus;Karabin M et al. 2015. Biologically active compounds from hops and prospects for their use. PMID: 26463615
+Lignoceric acid;CCCCCCCCCCCCCCCCCCCCCCCC(=O)O;Humulus lupulus;Karabin M et al. 2015. Biologically active compounds from hops and prospects for their use. PMID: 26463615
+Gibberellic acid;CC12C(C=CC3(C1C(C45C3CCC(C4)(C(=C)C5)O)C(=O)O)OC2=O)O;Humulus lupulus;Karabin M et al. 2015. Biologically active compounds from hops and prospects for their use. PMID: 26463615
+Jasmonic acid;CCC=CCC1C(CCC1=O)CC(=O)O;Humulus lupulus;Karabin M et al. 2015. Biologically active compounds from hops and prospects for their use. PMID: 26463615
+Malic acid;C(C(C(=O)O)O)C(=O)O;Humulus lupulus;Karabin M et al. 2015. Biologically active compounds from hops and prospects for their use. PMID: 26463615
+Tartaric acid;C(C(C(=O)O)O)(C(=O)O)O;Humulus lupulus;Karabin M et al. 2015. Biologically active compounds from hops and prospects for their use. PMID: 26463615
+Oxalic acid;C(=O)(C(=O)O)O;Humulus lupulus;Karabin M et al. 2015. Biologically active compounds from hops and prospects for their use. PMID: 26463615
+Fumaric acid;C(=CC(=O)O)C(=O)O;Humulus lupulus;Karabin M et al. 2015. Biologically active compounds from hops and prospects for their use. PMID: 26463615
+Vaccenic acid;CCCCCCC=CCCCCCCCCCC(=O)O;Humulus lupulus;Taiti C et al., 2023. PMID: 37762036
+Rumenic acid;CCCCCCC=CC=CCCCCCCCC(=O)O;Humulus lupulus;Taiti C et al., 2023. PMID: 37762036
+Linolenic acid;CCC=CCC=CCC=CCCCCCCCC(=O)O;Humulus lupulus;Taiti C et al., 2023. PMID: 37762036
+Butyric acid;CCCC(=O)O;Humulus lupulus;Taiti C et al., 2023. PMID: 37762036
+Isovaleric acid;CC(C)CC(=O)O;Humulus lupulus;Taiti C et al., 2023. PMID: 37762036
+Isobutyric acid;CC(C)C(=O)O;Humulus lupulus;Taiti C et al., 2023. PMID: 37762036
+Methylbutyric acid;CCC(C)C(=O)O;Humulus lupulus;Taiti C et al., 2023. PMID: 37762036
+Lactic acid;CC(C(=O)O)O;Humulus lupulus;Taiti C et al., 2023. PMID: 37762036
+Glucuronic acid;C1(C(C(OC(C1O)O)C(=O)O)O)O;Humulus lupulus;Han J et al., 2024. PMID: 39033477
+Uric acid;C12=C(NC(=O)N1)NC(=O)NC2=O;Humulus lupulus;Han J et al., 2024. PMID: 39033477
+Nordihydroguaiaretic acid;CC(CC1=CC(=C(C=C1)O)O)C(C)CC2=CC(=C(C=C2)O)O;Humulus lupulus;Han J et al., 2024. PMID: 39033477
+Sweroside;C=CC1C2CCOC(=O)C2=COC1OC3C(C(C(C(O3)CO)O)O)O;Trema micrantha;Barbosa-Filho JM et al. 2006. Plants and their active constituents from South, Central, and North America with hypoglycemic activity. PMID: 17072841
+Gentiopicroside;C=CC1C(OC=C2C1=CCOC2=O)OC3C(C(C(C(O3)CO)O)O)O;Trema micrantha;Barbosa-Filho JM et al. 2006. Plants and their active constituents from South, Central, and North America with hypoglycemic activity. PMID: 17072841
+Loganic acid;CC1C(CC2C1C(OC=C2C(=O)O)OC3C(C(C(C(O3)CO)O)O)O)O;Trema micrantha;Diniz A et al. 2007. Chemical composition and antibacterial activity of essential oils of Trema micrantha. PMID: 17651078
+Loganin;CC1C(CC2C1C(OC=C2C(=O)OC)OC3C(C(C(C(O3)CO)O)O)O)O;Trema micrantha;Barbosa-Filho JM et al. 2006. Plants and their active constituents from South, Central, and North America with hypoglycemic activity. PMID: 17072841
+Secologanin;COC(=O)C1=COC(C(C1CC=O)C=C)OC2C(C(C(C(O2)CO)O)O)O;Trema micrantha;Barbosa-Filho JM et al. 2006. Plants and their active constituents from South, Central, and North America with hypoglycemic activity. PMID: 17072841
+Verbascoside;CC1C(C(C(C(O1)OC2C(C(OC(C2OC(=O)C=CC3=CC(=C(C=C3)O)O)CO)OCCC4=CC(=C(C=C4)O)O)O)O)O)O;Trema micrantha;Barbosa-Filho JM et al. 2006. Plants and their active constituents from South, Central, and North America with hypoglycemic activity. PMID: 17072841
+Forsythoside;CC1C(C(C(C(O1)OCC2C(C(C(C(O2)OCCC3=CC(=C(C=C3)O)O)O)O)O)O)O)O;Trema micrantha;Barbosa-Filho JM et al. 2006. Plants and their active constituents from South, Central, and North America with hypoglycemic activity. PMID: 17072841
+Isoverbascoside;CC1C(C(C(C(O1)OC2C(C(OC(C2O)OCCC3=CC(=C(C=C3)O)O)COC(=O)C=CC4=CC(=C(C=C4)O)O)O)O)O)O;Trema micrantha;Barbosa-Filho JM et al. 2006. Plants and their active constituents from South, Central, and North America with hypoglycemic activity. PMID: 17072841
+Martynoside;CC1C(C(C(C(O1)OC2C(C(OC(C2OC(=O)C=CC3=CC(=C(C=C3)O)OC)CO)OCCC4=CC(=C(C=C4)OC)O)O)O)O)O;Trema micrantha;Barbosa-Filho JM et al. 2006. Plants and their active constituents from South, Central, and North America with hypoglycemic activity. PMID: 17072841
+Acteoside;CC1C(C(C(C(O1)OC2C(C(OC(C2OC(=O)C=CC3=CC(=C(C=C3)O)O)CO)OCCC4=CC(=C(C=C4)O)O)O)O)O)O;Trema micrantha;Barbosa-Filho JM et al. 2006. Plants and their active constituents from South, Central, and North America with hypoglycemic activity. PMID: 17072841
+Cistanoside;CC1C(C(C(C(O1)OC2C(C(OC(C2O)OCC3C(C(C(C(O3)OCCC4=CC(=C(C=C4)O)OC)O)O)OC(=O)C=CC5=CC(=C(C=C5)O)O)CO)O)O)O)O;Trema micrantha;Barbosa-Filho JM et al. 2006. Plants and their active constituents from South, Central, and North America with hypoglycemic activity. PMID: 17072841
+Salidroside;C1=CC(=CC=C1CCOC2C(C(C(C(O2)CO)O)O)O)O;Trema micrantha;Barbosa-Filho JM et al. 2006. Plants and their active constituents from South, Central, and North America with hypoglycemic activity. PMID: 17072841
+Swertiamarin;C=CC1C(OC=C2C1(CCOC2=O)O)OC3C(C(C(C(O3)CO)O)O)O;Trema micrantha;Barbosa-Filho JM et al. 2006. Plants and their active constituents from South, Central, and North America with hypoglycemic activity. PMID: 17072841
+Geniposidic acid;C1C=C(C2C1C(=COC2OC3C(C(C(C(O3)CO)O)O)O)C(=O)O)CO;Trema micrantha;Diniz A et al. 2007. Chemical composition and antibacterial activity of essential oils of Trema micrantha. PMID: 17651078
+Geniposide;COC(=O)C1=COC(C2C1CC=C2CO)OC3C(C(C(C(O3)CO)O)O)O;Trema micrantha;Barbosa-Filho JM et al. 2006. Plants and their active constituents from South, Central, and North America with hypoglycemic activity. PMID: 17072841
+Aucubin;C1=COC(C2C1C(C=C2CO)O)OC3C(C(C(C(O3)CO)O)O)O;Trema micrantha;Barbosa-Filho JM et al. 2006. Plants and their active constituents from South, Central, and North America with hypoglycemic activity. PMID: 17072841
+Catalpol;C1=COC(C2C1C(C3C2(O3)CO)O)OC4C(C(C(C(O4)CO)O)O)O;Trema micrantha;Barbosa-Filho JM et al. 2006. Plants and their active constituents from South, Central, and North America with hypoglycemic activity. PMID: 17072841
+Asperuloside;CC(=O)OCC1=CC2C3C1C(OC=C3C(=O)O2)OC4C(C(C(C(O4)CO)O)O)O;Trema micrantha;Barbosa-Filho JM et al. 2006. Plants and their active constituents from South, Central, and North America with hypoglycemic activity. PMID: 17072841
+Alpha-linolenic acid;CCC=CCC=CCC=CCCCCCCCC(=O)O;Trema micrantha;Diniz A et al. 2007. Chemical composition and antibacterial activity of essential oils of Trema micrantha. PMID: 17651078
+Arachidic acid;CCCCCCCCCCCCCCCCCCCC(=O)O;Trema micrantha;Diniz A et al. 2007. Chemical composition and antibacterial activity of essential oils of Trema micrantha. PMID: 17651078
+Behenic acid;CCCCCCCCCCCCCCCCCCCCCC(=O)O;Trema micrantha;Diniz A et al. 2007. Chemical composition and antibacterial activity of essential oils of Trema micrantha. PMID: 17651078
+Myristic acid;CCCCCCCCCCCCCC(=O)O;Trema micrantha;Diniz A et al. 2007. Chemical composition and antibacterial activity of essential oils of Trema micrantha. PMID: 17651078
+Lauric acid;CCCCCCCCCCCC(=O)O;Trema micrantha;Diniz A et al. 2007. Chemical composition and antibacterial activity of essential oils of Trema micrantha. PMID: 17651078
+Capric acid;CCCCCCCCCC(=O)O;Trema micrantha;Diniz A et al. 2007. Chemical composition and antibacterial activity of essential oils of Trema micrantha. PMID: 17651078
+Caprylic acid;CCCCCCCC(=O)O;Trema micrantha;Diniz A et al. 2007. Chemical composition and antibacterial activity of essential oils of Trema micrantha. PMID: 17651078
+Caproic acid;CCCCCC(=O)O;Trema micrantha;Diniz A et al. 2007. Chemical composition and antibacterial activity of essential oils of Trema micrantha. PMID: 17651078
+Lignoceric acid;CCCCCCCCCCCCCCCCCCCCCCCC(=O)O;Trema micrantha;Diniz A et al. 2007. Chemical composition and antibacterial activity of essential oils of Trema micrantha. PMID: 17651078
+Arachidonic acid;CCCCCC=CCC=CCC=CCC=CCCCC(=O)O;Trema micrantha;Diniz A et al. 2007. Chemical composition and antibacterial activity of essential oils of Trema micrantha. PMID: 17651078
+Eicosapentaenoic acid;CCC=CCC=CCC=CCC=CCC=CCCCC(=O)O;Trema micrantha;Diniz A et al. 2007. Chemical composition and antibacterial activity of essential oils of Trema micrantha. PMID: 17651078
+Docosahexaenoic acid;CCC=CCC=CCC=CCC=CCC=CCC=CCCC(=O)O;Trema micrantha;Diniz A et al. 2007. Chemical composition and antibacterial activity of essential oils of Trema micrantha. PMID: 17651078
+Gondoic acid;CCCCCCCCC=CCCCCCCCCCC(=O)O;Trema micrantha;Diniz A et al. 2007. Chemical composition and antibacterial activity of essential oils of Trema micrantha. PMID: 17651078
+Erucic acid;CCCCCCCCC=CCCCCCCCCCCCC(=O)O;Trema micrantha;Diniz A et al. 2007. Chemical composition and antibacterial activity of essential oils of Trema micrantha. PMID: 17651078
+Nervonic acid;CCCCCCCCC=CCCCCCCCCCCCCCC(=O)O;Trema micrantha;Diniz A et al. 2007. Chemical composition and antibacterial activity of essential oils of Trema micrantha. PMID: 17651078
+Alpha-amyrin;CC1CCC2(CCC3(C(=CCC4C3(CCC5C4(CCC(C5(C)C)O)C)C)C2C1C)C)C;Trema micrantha;Barbosa-Filho JM et al. 2006. Plants and their active constituents from South, Central, and North America with hypoglycemic activity. PMID: 17072841
+Alpha-boswellic acid;CC1(CCC2(CCC3(C(=CCC4C3(CCC5C4(CCC(C5(C)C(=O)O)O)C)C)C2C1)C)C)C;Trema micrantha;Diniz A et al. 2007. Chemical composition and antibacterial activity of essential oils of Trema micrantha. PMID: 17651078
+Beta-boswellic acid;CC1CCC2(CCC3(C(=CCC4C3(CCC5C4(CCC(C5(C)C(=O)O)O)C)C)C2C1C)C)C;Trema micrantha;Diniz A et al. 2007. Chemical composition and antibacterial activity of essential oils of Trema micrantha. PMID: 17651078
+Betulinic acid;CC(=C)C1CCC2(C1C3CCC4C5(CCC(C(C5CCC4(C3(CC2)C)C)(C)C)O)C)C(=O)O;Trema micrantha;Diniz A et al. 2007. Chemical composition and antibacterial activity of essential oils of Trema micrantha. PMID: 17651078
+Maslinic acid;CC1(CCC2(CCC3(C(=CCC4C3(CCC5C4(CC(C(C5(C)C)O)O)C)C)C2C1)C)C(=O)O)C;Trema micrantha;Diniz A et al. 2007. Chemical composition and antibacterial activity of essential oils of Trema micrantha. PMID: 17651078
+Asiatic acid;CC1CCC2(CCC3(C(=CCC4C3(CCC5C4(CC(C(C5(C)CO)O)O)C)C)C2C1C)C)C(=O)O;Trema micrantha;Diniz A et al. 2007. Chemical composition and antibacterial activity of essential oils of Trema micrantha. PMID: 17651078
+Madecassic acid;CC1CCC2(CCC3(C(=CCC4C3(CC(C5C4(CC(C(C5(C)CO)O)O)C)O)C)C2C1C)C)C(=O)O;Trema micrantha;Diniz A et al. 2007. Chemical composition and antibacterial activity of essential oils of Trema micrantha. PMID: 17651078
+Glycyrrhetinic acid;CC1(C2CCC3(C(C2(CCC1O)C)C(=O)C=C4C3(CCC5(C4CC(CC5)(C)C(=O)O)C)C)C)C;Trema micrantha;Diniz A et al. 2007. Chemical composition and antibacterial activity of essential oils of Trema micrantha. PMID: 17651078
+Glycyrrhizic acid;CC1(C2CCC3(C(C2(CCC1OC4C(C(C(C(O4)C(=O)O)O)O)OC5C(C(C(C(O5)C(=O)O)O)O)O)C)C(=O)C=C6C3(CCC7(C6CC(CC7)(C)C(=O)O)C)C)C)C;Trema micrantha;Diniz A et al. 2007. Chemical composition and antibacterial activity of essential oils of Trema micrantha. PMID: 17651078
+Betulin;CC(=C)C1CCC2(C1C3CCC4C5(CCC(C(C5CCC4(C3(CC2)C)C)(C)C)O)C)CO;Trema micrantha;Barbosa-Filho JM et al. 2006. Plants and their active constituents from South, Central, and North America with hypoglycemic activity. PMID: 17072841
+Friedelinol;CC1C(CCC2C1(CCC3C2(CCC4(C3(CCC5(C4CC(CC5)(C)C)C)C)C)C)C)O;Trema micrantha;Barbosa-Filho JM et al. 2006. Plants and their active constituents from South, Central, and North America with hypoglycemic activity. PMID: 17072841
+Cervicol;CC(C)C1CCC2(C3C1C2C(=C)CC3O)C;Trema micrantha;Barbosa-Filho JM et al. 2006. Plants and their active constituents from South, Central, and North America with hypoglycemic activity. PMID: 17072841
+Lanost-8-en-3-ol;CC(C)CCCC(C)C1CCC2(C1(CCC3=C2CCC4C3(CCC(C4(C)C)O)C)C)C;Trema micrantha;Barbosa-Filho JM et al. 2006. Plants and their active constituents from South, Central, and North America with hypoglycemic activity. PMID: 17072841
+Cycloartenol;CC(CCC=C(C)C)C1CCC2(C1(CCC34C2CCC5C3(C4)CCC(C5(C)C)O)C)C;Trema micrantha;Barbosa-Filho JM et al. 2006. Plants and their active constituents from South, Central, and North America with hypoglycemic activity. PMID: 17072841
+Cycloeucalenol;CC1C2CCC3C4(CCC(C4(CCC35C2(C5)CCC1O)C)C(C)CCC(=C)C(C)C)C;Trema micrantha;Barbosa-Filho JM et al. 2006. Plants and their active constituents from South, Central, and North America with hypoglycemic activity. PMID: 17072841
+Obtusifoliol;CC1C2CCC3=C(C2(CCC1O)C)CCC4(C3(CCC4C(C)CCC(=C)C(C)C)C)C;Trema micrantha;Barbosa-Filho JM et al. 2006. Plants and their active constituents from South, Central, and North America with hypoglycemic activity. PMID: 17072841
+Isomultiflorenol;CC1(CCC2(CCC3(C4=C(CCC3(C2C1)C)C5(CCC(C(C5CC4)(C)C)O)C)C)C)C;Trema micrantha;Barbosa-Filho JM et al. 2006. Plants and their active constituents from South, Central, and North America with hypoglycemic activity. PMID: 17072841
+Multiflorenol;CC1(CCC2(CCC3(C4=CCC5C(C(CCC5(C4CCC3(C2C1)C)C)O)(C)C)C)C)C;Trema micrantha;Barbosa-Filho JM et al. 2006. Plants and their active constituents from South, Central, and North America with hypoglycemic activity. PMID: 17072841
+Glutinol;CC1(CCC2(CCC3(C4CC=C5C(C4(CCC3(C2C1)C)C)CCC(C5(C)C)O)C)C)C;Trema micrantha;Barbosa-Filho JM et al. 2006. Plants and their active constituents from South, Central, and North America with hypoglycemic activity. PMID: 17072841
+Taraxasterol;CC1C2C3CCC4C5(CCC(C(C5CCC4(C3(CCC2(CCC1=C)C)C)C)(C)C)O)C;Trema micrantha;Ogunkoya L et al. 1977. Triterpenes and sterols from Trema orientalis. PMID: 839972
+Pseudotaraxasterol;CC1C2C3CCC4C5(CCC(C(C5CCC4(C3(CCC2(CC=C1C)C)C)C)(C)C)O)C;Trema micrantha;Ogunkoya L et al. 1977. Triterpenes and sterols from Trema orientalis. PMID: 839972
+Cannabinodiol;CCCCCC1=CC(=C(C(=C1)O)C2=C(C=CC(=C2)C)C(=C)C)O;Cannabis sativa;Aizpurua-Olaizola O et al. 2016. Evolution of the cannabinoid and terpene content during the growth of Cannabis sativa plants. PMID: 26836472
+Cannabichromanon;CCCCCC1=CC(=C2C(=C1)OC(C(C2=O)CCC(=O)C)(C)C)O;Cannabis sativa;El-Alfy AT et al. 2010. Antidepressant-like effect of delta9-tetrahydrocannabinol and other cannabinoids isolated from Cannabis sativa L. PMID: 20332000
+Cannabifuran;CCCCCC1=CC(=C2C(=C1)OC3=C(C=CC(=C23)C(C)C)C)O;Cannabis sativa;El-Alfy AT et al. 2010. Antidepressant-like effect of delta9-tetrahydrocannabinol and other cannabinoids isolated from Cannabis sativa L. PMID: 20332000
+Cannabiripsol;CCCCCC1=CC(=C2C3C(CCC(C3O)(C)O)C(OC2=C1)(C)C)O;Cannabis sativa;El-Alfy AT et al. 2010. Antidepressant-like effect of delta9-tetrahydrocannabinol and other cannabinoids isolated from Cannabis sativa L. PMID: 20332000
+Cannabielsoin;CCCCCC1=CC(=C2C3C(CCC(C3OC2=C1)(C)O)C(=C)C)O;Cannabis sativa;El-Alfy AT et al. 2010. Antidepressant-like effect of delta9-tetrahydrocannabinol and other cannabinoids isolated from Cannabis sativa L. PMID: 20332000
+Cannabinodivarin;CCCC1=CC(=C(C(=C1)O)C2=C(C=CC(=C2)C)C(=C)C)O;Cannabis sativa;Aizpurua-Olaizola O et al. 2016. Evolution of the cannabinoid and terpene content during the growth of Cannabis sativa plants. PMID: 26836472
+Cannabigerovarinic acid;CCCC1=CC(=C(C(=C1C(=O)O)O)CC=C(C)CCC=C(C)C)O;Cannabis sativa;El-Alfy AT et al. 2010. Antidepressant-like effect of delta9-tetrahydrocannabinol and other cannabinoids isolated from Cannabis sativa L. PMID: 20332000
+Cannabidivarinic acid;CCCC1=CC(=C(C(=C1C(=O)O)O)C2C=C(CCC2C(=C)C)C)O;Cannabis sativa;El-Alfy AT et al. 2010. Antidepressant-like effect of delta9-tetrahydrocannabinol and other cannabinoids isolated from Cannabis sativa L. PMID: 20332000
+Tetrahydrocannabivarinic acid;CCCC1=CC2=C(C3C=C(CCC3C(O2)(C)C)C)C(=C1C(=O)O)O;Cannabis sativa;El-Alfy AT et al. 2010. Antidepressant-like effect of delta9-tetrahydrocannabinol and other cannabinoids isolated from Cannabis sativa L. PMID: 20332000
+Cannabichromevarinic acid;CCCC1=CC2=C(C=CC(O2)(C)CCC=C(C)C)C(=C1C(=O)O)O;Cannabis sativa;El-Alfy AT et al. 2010. Antidepressant-like effect of delta9-tetrahydrocannabinol and other cannabinoids isolated from Cannabis sativa L. PMID: 20332000
+11-hydroxy-delta-9-tetrahydrocannabinol;CCCCCC1=CC(=C2C3C=C(CCC3C(OC2=C1)(C)C)CO)O;Cannabis sativa;Aizpurua-Olaizola O et al. 2016. Evolution of the cannabinoid and terpene content during the growth of Cannabis sativa plants. PMID: 26836472
+Delta-9-cis-tetrahydrocannabinol;CCCCCC1=CC(=C2C3C=C(CCC3C(OC2=C1)(C)C)C)O;Cannabis sativa;Aizpurua-Olaizola O et al. 2016. Evolution of the cannabinoid and terpene content during the growth of Cannabis sativa plants. PMID: 26836472
+Delta-8-tetrahydrocannabinolic acid;CCCCCC1=CC2=C(C3CC(=CCC3C(O2)(C)C)C)C(=C1C(=O)O)O;Cannabis sativa;El-Alfy AT et al. 2010. Antidepressant-like effect of delta9-tetrahydrocannabinol and other cannabinoids isolated from Cannabis sativa L. PMID: 20332000
+Cannabicyclolic acid;CCCCCC1=CC2=C(C3C4C(C3(C)C)CCC4(O2)C)C(=C1C(=O)O)O;Cannabis sativa;El-Alfy AT et al. 2010. Antidepressant-like effect of delta9-tetrahydrocannabinol and other cannabinoids isolated from Cannabis sativa L. PMID: 20332000
+Alpha-terpinene;CC1=CC=C(CC1)C(C)C;Cannabis sativa;Russo EB. 2011. Taming THC: potential cannabis synergy and phytocannabinoid-terpenoid entourage effects. PMID: 21749363
+Beta-terpinene;CC(C)C1=CCC(=C)CC1;Cannabis sativa;Russo EB. 2011. Taming THC: potential cannabis synergy and phytocannabinoid-terpenoid entourage effects. PMID: 21749363
+Gamma-terpinene;CC1=CCC(=CC1)C(C)C;Cannabis sativa;Russo EB. 2011. Taming THC: potential cannabis synergy and phytocannabinoid-terpenoid entourage effects. PMID: 21749363
+Delta-3-carene;CC1=CCC2C(C1)C2(C)C;Cannabis sativa;El-Alfy AT et al. 2010. Antidepressant-like effect of delta9-tetrahydrocannabinol and other cannabinoids isolated from Cannabis sativa L. PMID: 20332000
+Sabinene;CC(C)C12CCC(=C)C1C2;Cannabis sativa;El-Alfy AT et al. 2010. Antidepressant-like effect of delta9-tetrahydrocannabinol and other cannabinoids isolated from Cannabis sativa L. PMID: 20332000
+Alpha-phellandrene;CC1=CCC(C=C1)C(C)C;Cannabis sativa;El-Alfy AT et al. 2010. Antidepressant-like effect of delta9-tetrahydrocannabinol and other cannabinoids isolated from Cannabis sativa L. PMID: 20332000
+Beta-phellandrene;CC(C)C1CCC(=C)C=C1;Cannabis sativa;El-Alfy AT et al. 2010. Antidepressant-like effect of delta9-tetrahydrocannabinol and other cannabinoids isolated from Cannabis sativa L. PMID: 20332000
+Alpha-terpineol;CC1=CCC(CC1)C(C)(C)O;Cannabis sativa;El-Alfy AT et al. 2010. Antidepressant-like effect of delta9-tetrahydrocannabinol and other cannabinoids isolated from Cannabis sativa L. PMID: 20332000
+Terpinen-4-ol;CC1=CCC(CC1)(C(C)C)O;Cannabis sativa;Russo EB. 2011. Taming THC: potential cannabis synergy and phytocannabinoid-terpenoid entourage effects. PMID: 21749363
+Alpha-thujene;CC1=CCC2(C1C2)C(C)C;Cannabis sativa;El-Alfy AT et al. 2010. Antidepressant-like effect of delta9-tetrahydrocannabinol and other cannabinoids isolated from Cannabis sativa L. PMID: 20332000
+Camphor;CC1(C2CCC1(C(=O)C2)C)C;Cannabis sativa;El-Alfy AT et al. 2010. Antidepressant-like effect of delta9-tetrahydrocannabinol and other cannabinoids isolated from Cannabis sativa L. PMID: 20332000
+Citronellol;CC(CCC=C(C)C)CCO;Cannabis sativa;El-Alfy AT et al. 2010. Antidepressant-like effect of delta9-tetrahydrocannabinol and other cannabinoids isolated from Cannabis sativa L. PMID: 20332000
+Menthol;CC1CCC(C(C1)O)C(C)C;Cannabis sativa;El-Alfy AT et al. 2010. Antidepressant-like effect of delta9-tetrahydrocannabinol and other cannabinoids isolated from Cannabis sativa L. PMID: 20332000
+Nerol;CC(=CCCC(=CCO)C)C;Cannabis sativa;El-Alfy AT et al. 2010. Antidepressant-like effect of delta9-tetrahydrocannabinol and other cannabinoids isolated from Cannabis sativa L. PMID: 20332000
+Verbenol;CC1=CC(C2CC1C2(C)C)O;Cannabis sativa;El-Alfy AT et al. 2010. Antidepressant-like effect of delta9-tetrahydrocannabinol and other cannabinoids isolated from Cannabis sativa L. PMID: 20332000
+Pulegone;CC1CCC(=C(C)C)C(=O)C1;Cannabis sativa;El-Alfy AT et al. 2010. Antidepressant-like effect of delta9-tetrahydrocannabinol and other cannabinoids isolated from Cannabis sativa L. PMID: 20332000
+Carvone;CC1=CCC(CC1=O)C(=C)C;Cannabis sativa;El-Alfy AT et al. 2010. Antidepressant-like effect of delta9-tetrahydrocannabinol and other cannabinoids isolated from Cannabis sativa L. PMID: 20332000
+Dihydrocarveol;CC1CCC(CC1O)C(=C)C;Cannabis sativa;El-Alfy AT et al. 2010. Antidepressant-like effect of delta9-tetrahydrocannabinol and other cannabinoids isolated from Cannabis sativa L. PMID: 20332000
+Carveol;CC1=CCC(CC1O)C(=C)C;Cannabis sativa;El-Alfy AT et al. 2010. Antidepressant-like effect of delta9-tetrahydrocannabinol and other cannabinoids isolated from Cannabis sativa L. PMID: 20332000
+Menthone;CC1CCC(C(=O)C1)C(C)C;Cannabis sativa;El-Alfy AT et al. 2010. Antidepressant-like effect of delta9-tetrahydrocannabinol and other cannabinoids isolated from Cannabis sativa L. PMID: 20332000
+Piperitone;CC1=CC(=O)C(CC1)C(C)C;Cannabis sativa;El-Alfy AT et al. 2010. Antidepressant-like effect of delta9-tetrahydrocannabinol and other cannabinoids isolated from Cannabis sativa L. PMID: 20332000
+Isopulegol;CC1CCC(C(C1)O)C(=C)C;Cannabis sativa;El-Alfy AT et al. 2010. Antidepressant-like effect of delta9-tetrahydrocannabinol and other cannabinoids isolated from Cannabis sativa L. PMID: 20332000
+Menthofuran;CC1CCC2=C(C1)OC=C2C;Cannabis sativa;El-Alfy AT et al. 2010. Antidepressant-like effect of delta9-tetrahydrocannabinol and other cannabinoids isolated from Cannabis sativa L. PMID: 20332000
+Eudesmol;CC1CCCC2(C1CC(CC2)C(C)(C)O)C;Cannabis sativa;El-Alfy AT et al. 2010. Antidepressant-like effect of delta9-tetrahydrocannabinol and other cannabinoids isolated from Cannabis sativa L. PMID: 20332000
+Aromadendrene;CC1CCC2C1C3C(C3(C)C)CCC2=C;Cannabis sativa;El-Alfy AT et al. 2010. Antidepressant-like effect of delta9-tetrahydrocannabinol and other cannabinoids isolated from Cannabis sativa L. PMID: 20332000
+Alpha-bisabolol;CC1=CCC(CC1)C(C)(CCC=C(C)C)O;Cannabis sativa;El-Alfy AT et al. 2010. Antidepressant-like effect of delta9-tetrahydrocannabinol and other cannabinoids isolated from Cannabis sativa L. PMID: 20332000
+Beta-bisabolol;CC1=CCC(CC1)(C(C)CCC=C(C)C)O;Cannabis sativa;El-Alfy AT et al. 2010. Antidepressant-like effect of delta9-tetrahydrocannabinol and other cannabinoids isolated from Cannabis sativa L. PMID: 20332000
+Alpha-selinene;CC1=CCCC2(C1CC(CC2)C(=C)C)C;Cannabis sativa;El-Alfy AT et al. 2010. Antidepressant-like effect of delta9-tetrahydrocannabinol and other cannabinoids isolated from Cannabis sativa L. PMID: 20332000
+Beta-selinene;CC(=C)C1CCC2(CCCC(=C)C2C1)C;Cannabis sativa;El-Alfy AT et al. 2010. Antidepressant-like effect of delta9-tetrahydrocannabinol and other cannabinoids isolated from Cannabis sativa L. PMID: 20332000
+Alpha-guaiene;CC1CCC(CC2=C1CCC2C)C(=C)C;Cannabis sativa;El-Alfy AT et al. 2010. Antidepressant-like effect of delta9-tetrahydrocannabinol and other cannabinoids isolated from Cannabis sativa L. PMID: 20332000
+Alpha-farnesene;CC(=CCCC(=CCC=C(C)C=C)C)C;Cannabis sativa;El-Alfy AT et al. 2010. Antidepressant-like effect of delta9-tetrahydrocannabinol and other cannabinoids isolated from Cannabis sativa L. PMID: 20332000
+Beta-farnesene;CC(=CCCC(=CCCC(=C)C=C)C)C;Cannabis sativa;El-Alfy AT et al. 2010. Antidepressant-like effect of delta9-tetrahydrocannabinol and other cannabinoids isolated from Cannabis sativa L. PMID: 20332000
+Gamma-cadinene;CC1=CC2C(CC1)C(=C)CCC2C(C)C;Cannabis sativa;El-Alfy AT et al. 2010. Antidepressant-like effect of delta9-tetrahydrocannabinol and other cannabinoids isolated from Cannabis sativa L. PMID: 20332000
+Calamenene;CC1CCC(C2=C1C=CC(=C2)C)C(C)C;Cannabis sativa;El-Alfy AT et al. 2010. Antidepressant-like effect of delta9-tetrahydrocannabinol and other cannabinoids isolated from Cannabis sativa L. PMID: 20332000
+Cadalene;CC1=CC2=C(C=CC(=C2C=C1)C)C(C)C;Cannabis sativa;El-Alfy AT et al. 2010. Antidepressant-like effect of delta9-tetrahydrocannabinol and other cannabinoids isolated from Cannabis sativa L. PMID: 20332000
+Copaene;CC1=CCC2C3C1C2(CCC3C(C)C)C;Cannabis sativa;El-Alfy AT et al. 2010. Antidepressant-like effect of delta9-tetrahydrocannabinol and other cannabinoids isolated from Cannabis sativa L. PMID: 20332000
+Bisabolene;CC1=CCC(=C(C)CCC=C(C)C)CC1;Cannabis sativa;El-Alfy AT et al. 2010. Antidepressant-like effect of delta9-tetrahydrocannabinol and other cannabinoids isolated from Cannabis sativa L. PMID: 20332000
+Curcumene;CC1=CC=C(C=C1)C(C)CCC=C(C)C;Cannabis sativa;El-Alfy AT et al. 2010. Antidepressant-like effect of delta9-tetrahydrocannabinol and other cannabinoids isolated from Cannabis sativa L. PMID: 20332000
+Elemene;CC(=C)C1CCC(C(C1)C(=C)C)(C)C=C;Cannabis sativa;El-Alfy AT et al. 2010. Antidepressant-like effect of delta9-tetrahydrocannabinol and other cannabinoids isolated from Cannabis sativa L. PMID: 20332000
+Germacrene;CC1=CCCC(=CCC(CC1)C(=C)C)C;Cannabis sativa;El-Alfy AT et al. 2010. Antidepressant-like effect of delta9-tetrahydrocannabinol and other cannabinoids isolated from Cannabis sativa L. PMID: 20332000
+Gurjunene;CC1CCC2C(C2(C)C)C3=C(CCC13)C;Cannabis sativa;El-Alfy AT et al. 2010. Antidepressant-like effect of delta9-tetrahydrocannabinol and other cannabinoids isolated from Cannabis sativa L. PMID: 20332000
+Longifolene;CC1(CCCC2(C3C1C(C2=C)CC3)C)C;Cannabis sativa;El-Alfy AT et al. 2010. Antidepressant-like effect of delta9-tetrahydrocannabinol and other cannabinoids isolated from Cannabis sativa L. PMID: 20332000
+Patchoulene;CC1CCC2=C1CC3CCC2(C3(C)C)C;Cannabis sativa;El-Alfy AT et al. 2010. Antidepressant-like effect of delta9-tetrahydrocannabinol and other cannabinoids isolated from Cannabis sativa L. PMID: 20332000
+Zingiberene;CC1=CCC(C=C1)C(C)CCC=C(C)C;Cannabis sativa;El-Alfy AT et al. 2010. Antidepressant-like effect of delta9-tetrahydrocannabinol and other cannabinoids isolated from Cannabis sativa L. PMID: 20332000
+Carotol;CC1=CCC2(CCC(C2(CC1)O)C(C)C)C;Cannabis sativa;El-Alfy AT et al. 2010. Antidepressant-like effect of delta9-tetrahydrocannabinol and other cannabinoids isolated from Cannabis sativa L. PMID: 20332000
+Himachalene;CC1=CC2C(=C(CCCC2(C)C)C)CC1;Cannabis sativa;El-Alfy AT et al. 2010. Antidepressant-like effect of delta9-tetrahydrocannabinol and other cannabinoids isolated from Cannabis sativa L. PMID: 20332000
+Humulenol;CC1=CCCC(=C)C(CC(C=CC1)(C)C)O;Cannabis sativa;Russo EB. 2011. Taming THC: potential cannabis synergy and phytocannabinoid-terpenoid entourage effects. PMID: 21749363
+Viridiflorol;CC1CCC2C1C3C(C3(C)C)CCC2(C)O;Cannabis sativa;El-Alfy AT et al. 2010. Antidepressant-like effect of delta9-tetrahydrocannabinol and other cannabinoids isolated from Cannabis sativa L. PMID: 20332000
+Myricetin;C1=C(C=C(C(=C1O)O)O)C2=C(C(=O)C3=C(C=C(C=C3O2)O)O)O;Cannabis sativa;El-Alfy AT et al. 2010. Antidepressant-like effect of delta9-tetrahydrocannabinol and other cannabinoids isolated from Cannabis sativa L. PMID: 20332000
+Catechin;C1C(C(OC2=CC(=CC(=C21)O)O)C3=CC(=C(C=C3)O)O)O;Cannabis sativa;Higdon JV & Frei B. 2003. Tea catechins and polyphenols: health effects, metabolism, and antioxidant functions. PMID: 12587987
+Epicatechin;C1C(C(OC2=CC(=CC(=C21)O)O)C3=CC(=C(C=C3)O)O)O;Cannabis sativa;Ottaviani JI et al. 2011. The stereochemical configuration of flavanols influences the level and metabolism of flavanols in humans. PMID: 21866098
+Isoquercitrin;C1=CC(=C(C=C1C2=C(C(=O)C3=C(C=C(C=C3O2)O)O)OC4C(C(C(C(O4)CO)O)O)O)O)O;Cannabis sativa;El-Alfy AT et al. 2010. Antidepressant-like effect of delta9-tetrahydrocannabinol and other cannabinoids isolated from Cannabis sativa L. PMID: 20332000
+Quercitrin;CC1C(C(C(C(O1)OC2=C(OC3=CC(=CC(=C3C2=O)O)O)C4=CC(=C(C=C4)O)O)O)O)O;Cannabis sativa;El-Alfy AT et al. 2010. Antidepressant-like effect of delta9-tetrahydrocannabinol and other cannabinoids isolated from Cannabis sativa L. PMID: 20332000
+Diosmetin;COC1=C(C=C(C=C1)C2=CC(=O)C3=C(C=C(C=C3O2)O)O)O;Cannabis sativa;El-Alfy AT et al. 2010. Antidepressant-like effect of delta9-tetrahydrocannabinol and other cannabinoids isolated from Cannabis sativa L. PMID: 20332000
+Genkwanin;COC1=CC(=C2C(=C1)OC(=CC2=O)C3=CC=C(C=C3)O)O;Cannabis sativa;El-Alfy AT et al. 2010. Antidepressant-like effect of delta9-tetrahydrocannabinol and other cannabinoids isolated from Cannabis sativa L. PMID: 20332000
+Naringenin;C1C(OC2=CC(=CC(=C2C1=O)O)O)C3=CC=C(C=C3)O;Cannabis sativa;El-Alfy AT et al. 2010. Antidepressant-like effect of delta9-tetrahydrocannabinol and other cannabinoids isolated from Cannabis sativa L. PMID: 20332000
+Chrysoeriol;COC1=C(C=CC(=C1)C2=CC(=O)C3=C(C=C(C=C3O2)O)O)O;Cannabis sativa;El-Alfy AT et al. 2010. Antidepressant-like effect of delta9-tetrahydrocannabinol and other cannabinoids isolated from Cannabis sativa L. PMID: 20332000
+Eriodictyol;C1C(OC2=CC(=CC(=C2C1=O)O)O)C3=CC(=C(C=C3)O)O;Cannabis sativa;El-Alfy AT et al. 2010. Antidepressant-like effect of delta9-tetrahydrocannabinol and other cannabinoids isolated from Cannabis sativa L. PMID: 20332000
+Myricitrin;CC1C(C(C(C(O1)OC2=C(OC3=CC(=CC(=C3C2=O)O)O)C4=CC(=C(C(=C4)O)O)O)O)O)O;Cannabis sativa;El-Alfy AT et al. 2010. Antidepressant-like effect of delta9-tetrahydrocannabinol and other cannabinoids isolated from Cannabis sativa L. PMID: 20332000
+Liquiritigenin;C1C(OC2=C(C1=O)C=CC(=C2)O)C3=CC=C(C=C3)O;Cannabis sativa;El-Alfy AT et al. 2010. Antidepressant-like effect of delta9-tetrahydrocannabinol and other cannabinoids isolated from Cannabis sativa L. PMID: 20332000
+Astragalin;C1=CC(=CC=C1C2=C(C(=O)C3=C(C=C(C=C3O2)O)O)OC4C(C(C(C(O4)CO)O)O)O)O;Cannabis sativa;El-Alfy AT et al. 2010. Antidepressant-like effect of delta9-tetrahydrocannabinol and other cannabinoids isolated from Cannabis sativa L. PMID: 20332000
+Fisetin;C1=CC(=C(C=C1C2=C(C(=O)C3=C(O2)C=C(C=C3)O)O)O)O;Cannabis sativa;El-Alfy AT et al. 2010. Antidepressant-like effect of delta9-tetrahydrocannabinol and other cannabinoids isolated from Cannabis sativa L. PMID: 20332000
+Galangin;C1=CC=C(C=C1)C2=C(C(=O)C3=C(C=C(C=C3O2)O)O)O;Cannabis sativa;El-Alfy AT et al. 2010. Antidepressant-like effect of delta9-tetrahydrocannabinol and other cannabinoids isolated from Cannabis sativa L. PMID: 20332000
+Isorhamnetin;COC1=C(C=CC(=C1)C2=C(C(=O)C3=C(C=C(C=C3O2)O)O)O)O;Cannabis sativa;El-Alfy AT et al. 2010. Antidepressant-like effect of delta9-tetrahydrocannabinol and other cannabinoids isolated from Cannabis sativa L. PMID: 20332000
+Morin;C1=CC(=C(C=C1O)O)C2=C(C(=O)C3=C(C=C(C=C3O2)O)O)O;Cannabis sativa;El-Alfy AT et al. 2010. Antidepressant-like effect of delta9-tetrahydrocannabinol and other cannabinoids isolated from Cannabis sativa L. PMID: 20332000
+Rhamnetin;COC1=CC(=C2C(=C1)OC(=C(C2=O)O)C3=CC(=C(C=C3)O)O)O;Cannabis sativa;El-Alfy AT et al. 2010. Antidepressant-like effect of delta9-tetrahydrocannabinol and other cannabinoids isolated from Cannabis sativa L. PMID: 20332000
+Tricin;COC1=CC(=CC(=C1O)OC)C2=CC(=O)C3=C(C=C(C=C3O2)O)O;Cannabis sativa;El-Alfy AT et al. 2010. Antidepressant-like effect of delta9-tetrahydrocannabinol and other cannabinoids isolated from Cannabis sativa L. PMID: 20332000
+Gallic acid;C1=C(C=C(C(=C1O)O)O)C(=O)O;Cannabis sativa;El-Alfy AT et al. 2010. Antidepressant-like effect of delta9-tetrahydrocannabinol and other cannabinoids isolated from Cannabis sativa L. PMID: 20332000
+Protocatechuic acid;C1=CC(=C(C=C1C(=O)O)O)O;Cannabis sativa;El-Alfy AT et al. 2010. Antidepressant-like effect of delta9-tetrahydrocannabinol and other cannabinoids isolated from Cannabis sativa L. PMID: 20332000
+p-Hydroxybenzoic acid;C1=CC(=CC=C1C(=O)O)O;Cannabis sativa;El-Alfy AT et al. 2010. Antidepressant-like effect of delta9-tetrahydrocannabinol and other cannabinoids isolated from Cannabis sativa L. PMID: 20332000
+Cannabispirone;COC1=CC2=C(C(=C1)O)C3(CCC(=O)CC3)CC2;Cannabis sativa;El-Alfy AT et al. 2010. Antidepressant-like effect of delta9-tetrahydrocannabinol and other cannabinoids isolated from Cannabis sativa L. PMID: 20332000
+Cannabistilbene I;CC(=CCC1=C(C=CC(=C1)CCC2=CC(=CC(=C2)OC)O)O)C;Cannabis sativa;El-Alfy AT et al. 2010. Antidepressant-like effect of delta9-tetrahydrocannabinol and other cannabinoids isolated from Cannabis sativa L. PMID: 20332000
+Cannabistilbene II;COC1=C(C(=C(C=C1)C=CC2CC(=CC(=C2)OC)O)OC)O;Cannabis sativa;El-Alfy AT et al. 2010. Antidepressant-like effect of delta9-tetrahydrocannabinol and other cannabinoids isolated from Cannabis sativa L. PMID: 20332000
+Cannabisin A;C1=CC(=CC=C1CCNC(=O)C2=C(C(=C3C=C(C(=CC3=C2)O)O)C4=CC(=C(C=C4)O)O)C(=O)NCCC5=CC=C(C=C5)O)O;Cannabis sativa;El-Alfy AT et al. 2010. Antidepressant-like effect of delta9-tetrahydrocannabinol and other cannabinoids isolated from Cannabis sativa L. PMID: 20332000
+Cannabisin B;C1=CC(=CC=C1CCNC(=O)C2C(C3=CC(=C(C=C3C=C2C(=O)NCCC4=CC=C(C=C4)O)O)O)C5=CC(=C(C=C5)O)O)O;Cannabis sativa;El-Alfy AT et al. 2010. Antidepressant-like effect of delta9-tetrahydrocannabinol and other cannabinoids isolated from Cannabis sativa L. PMID: 20332000
+Cannabisin C;COC1=C(C=C2C(C(C(=CC2=C1)C(=O)NCCC3=CC=C(C=C3)O)C(=O)NCCC4=CC=C(C=C4)O)C5=CC(=C(C=C5)O)O)O;Cannabis sativa;El-Alfy AT et al. 2010. Antidepressant-like effect of delta9-tetrahydrocannabinol and other cannabinoids isolated from Cannabis sativa L. PMID: 20332000
+Cannabisin D;COC1=C(C=CC(=C1)C2C(C(=CC3=CC(=C(C=C23)O)OC)C(=O)NCCC4=CC=C(C=C4)O)C(=O)NCCC5=CC=C(C=C5)O)O;Cannabis sativa;El-Alfy AT et al. 2010. Antidepressant-like effect of delta9-tetrahydrocannabinol and other cannabinoids isolated from Cannabis sativa L. PMID: 20332000
+Cannabisin E;COC1=C(C=CC(=C1)C=CC(=O)NCCC2=CC=C(C=C2)O)OC(C(C3=CC(=C(C=C3)O)OC)O)C(=O)NCCC4=CC=C(C=C4)O;Cannabis sativa;El-Alfy AT et al. 2010. Antidepressant-like effect of delta9-tetrahydrocannabinol and other cannabinoids isolated from Cannabis sativa L. PMID: 20332000
+Cannabisin F;COC1=C(C=CC(=C1)C=CC(=O)NCCC2=CC=C(C=C2)O)OC(=CC3=CC(=C(C=C3)O)OC)C(=O)NCCC4=CC=C(C=C4)O;Cannabis sativa;El-Alfy AT et al. 2010. Antidepressant-like effect of delta9-tetrahydrocannabinol and other cannabinoids isolated from Cannabis sativa L. PMID: 20332000
+Cannabisin G;COC1=C(C=CC(=C1)C=C(C(=CC2=CC(=C(C=C2)O)OC)C(=O)NCCC3=CC=C(C=C3)O)C(=O)NCCC4=CC=C(C=C4)O)O;Cannabis sativa;El-Alfy AT et al. 2010. Antidepressant-like effect of delta9-tetrahydrocannabinol and other cannabinoids isolated from Cannabis sativa L. PMID: 20332000
+Grossamide;COC1=CC(=CC2=C1OC(C2C(=O)NCCC3=CC=C(C=C3)O)C4=CC(=C(C=C4)O)OC)C=CC(=O)NCCC5=CC=C(C=C5)O;Cannabis sativa;El-Alfy AT et al. 2010. Antidepressant-like effect of delta9-tetrahydrocannabinol and other cannabinoids isolated from Cannabis sativa L. PMID: 20332000
+Cannabisativine;CCCCCC(C(C1C=CCC2N1CCCNCCCCNC(=O)C2)O)O;Cannabis sativa;El-Alfy AT et al. 2010. Antidepressant-like effect of delta9-tetrahydrocannabinol and other cannabinoids isolated from Cannabis sativa L. PMID: 20332000
+Anhydrocannabisativine;CCCCCC(=O)CC1C=CCC2N1CCCNCCCCNC(=O)C2;Cannabis sativa;El-Alfy AT et al. 2010. Antidepressant-like effect of delta9-tetrahydrocannabinol and other cannabinoids isolated from Cannabis sativa L. PMID: 20332000
+Palustrine;CCC(C1CC=CC2N1CCCNCCCCNC(=O)C2)O;Cannabis sativa;El-Alfy AT et al. 2010. Antidepressant-like effect of delta9-tetrahydrocannabinol and other cannabinoids isolated from Cannabis sativa L. PMID: 20332000
+Dihydrostilbene;C1=CC=C(C=C1)CCC2=CC=CC=C2;Cannabis sativa;El-Alfy AT et al. 2010. Antidepressant-like effect of delta9-tetrahydrocannabinol and other cannabinoids isolated from Cannabis sativa L. PMID: 20332000
+N-trans-caffeoyltyramine;C1=CC(=CC=C1CCNC(=O)C=CC2=CC(=C(C=C2)O)O)O;Cannabis sativa;El-Alfy AT et al. 2010. Antidepressant-like effect of delta9-tetrahydrocannabinol and other cannabinoids isolated from Cannabis sativa L. PMID: 20332000
+N-trans-feruloyltyramine;COC1=C(C=CC(=C1)C=CC(=O)NCCC2=CC=C(C=C2)O)O;Cannabis sativa;El-Alfy AT et al. 2010. Antidepressant-like effect of delta9-tetrahydrocannabinol and other cannabinoids isolated from Cannabis sativa L. PMID: 20332000
+N-p-coumaroyltyramine;C1=CC(=CC=C1CCNC(=O)C=CC2=CC=C(C=C2)O)O;Cannabis sativa;El-Alfy AT et al. 2010. Antidepressant-like effect of delta9-tetrahydrocannabinol and other cannabinoids isolated from Cannabis sativa L. PMID: 20332000
+Oleic acid;CCCCCCCCC=CCCCCCCCC(=O)O;Cannabis sativa;Ferri E et al., 2025. PMID: 40139041
+Palmitic acid;CCCCCCCCCCCCCCCC(=O)O;Cannabis sativa;Ferri E et al., 2025. PMID: 40139041
+D-erythritol;C(C(C(CO)O)O)O;Cannabis sativa;Ibork H et al., 2025. PMID: 40195769
+Palmitoleic acid;CCCCCCC=CCCCCCCCC(=O)O;Cannabis sativa;Vaccarini C et al., 2025. PMID: 40108003
+Sulfonic acid;OS(=O)[O-];Cannabis sativa;Vaccarini C et al., 2025. PMID: 40108003
+Cinnamic acid;C1=CC=C(C=C1)C=CC(=O)O;Cannabis sativa;Singh IP et al., 2025. PMID: 40056954
+Indolelactic acid;C1=CC=C2C(=C1)C(=CN2)CC(C(=O)O)O;Cannabis sativa;A'yuni Q et al., 2025. PMID: 40231916
+Aspartic acid;C(C(C(=O)O)N)C(=O)O;Cannabis sativa;Dimopoulos N et al., 2025. PMID: 40094644
+Arachidonic acid;CCCCCC=CCC=CCC=CCC=CCCCC(=O)O;Cannabis sativa;Dimopoulos N et al., 2025. PMID: 40094644
+Octonic acid;C(C(C(C(C(C(C(C(=O)O)O)O)O)O)O)O)O;Cannabis sativa;Dimopoulos N et al., 2025. PMID: 40094644
+N-butanol;CCCCO;Cannabis sativa;Kamsrijai U et al., 2025. PMID: 39551282
+Epi-friedelanol;CC1C(CCC2C1(CCC3C2(CCC4(C3(CCC5(C4CC(CC5)(C)C)C)C)C)C)C)O;Cannabis sativa;Kamsrijai U et al., 2025. PMID: 39551282
+Cannabispirol;COC1=CC2=C(C(=C1)O)C3(CCC(CC3)O)CC2;Cannabis sativa;Jost R et al., 2025. PMID: 39702954
+Deoxyribonucleic acid;C1C(C(OC1N)COP(=O)(O)OC2CC(OC2COP(=O)(O)OC3CC(OC3CO)N)N)O;Cannabis sativa;Jost R et al., 2025. PMID: 39702954
+Phosphoric acid;OP(=O)(O)O;Cannabis sativa;Jost R et al., 2025. PMID: 39702954
+Carnosic acid;CC(C)C1=C(C(=C2C(=C1)CCC3C2(CCCC3(C)C)C(=O)O)O)O;Cannabis sativa;Jost R et al., 2025. PMID: 39702954
+Rosmarinic acid;C1=CC(=C(C=C1CC(C(=O)O)OC(=O)C=CC2=CC(=C(C=C2)O)O)O)O;Cannabis sativa;Jost R et al., 2025. PMID: 39702954
+Xanthohumol L;CC1(C(CC2=C(O1)C(=C(C=C2O)OC)C(=O)C=CC3=CC=C(C=C3)O)O)C;Humulus lupulus;Zanoli P & Zavatti M. 2008. Pharmacognostic and pharmacological profile of Humulus lupulus L. PMID: 18446504
+Dehydrocycloxanthohumol hydrate;CC1(C(CC2=C(C(=C(C=C2O1)OC)C(=O)C=CC3=CC=C(C=C3)O)O)O)C;Humulus lupulus;Zanoli P & Zavatti M. 2008. Pharmacognostic and pharmacological profile of Humulus lupulus L. PMID: 18446504
+Dihydroxanthohumol;CC(=CCC1=C(C(=C(C=C1O)OC)C(=O)CCC2=CC=C(C=C2)O)O)C;Humulus lupulus;Zanoli P & Zavatti M. 2008. Pharmacognostic and pharmacological profile of Humulus lupulus L. PMID: 18446504
+Posthumulone;CCC(=O)C1=C(C(=C(C(C1=O)(CC=C(C)C)O)O)CC=C(C)C)O;Humulus lupulus;Van Cleemput M et al. 2009. Hop (Humulus lupulus L.): an update. PMID: 19674950
+n-Humulone;CC(C)CC(=O)C1=C(C(=C(C(C1=O)(CC=C(C)C)O)O)CC=C(C)C)O;Humulus lupulus;Van Cleemput M et al. 2009. Hop (Humulus lupulus L.): an update. PMID: 19674950
+Humuladienone;CC1CC=CC(CC=C(CCC1=O)C)(C)C;Humulus lupulus;Van Cleemput M et al. 2009. Hop (Humulus lupulus L.): an update. PMID: 19674950
+Caryophyllene alcohol;CC1(CC2C1CCC3(CCCC2(C3)O)C)C;Humulus lupulus;Van Cleemput M et al. 2009. Hop (Humulus lupulus L.): an update. PMID: 19674950
+Caryolan-1-ol;CC1(CC2C1CCC3(CCCC2(C3)O)C)C;Humulus lupulus;Zanoli P & Zavatti M. 2008. Pharmacognostic and pharmacological profile of Humulus lupulus L. PMID: 18446504
+Spathulenol;CC1(C2C1C3C(CCC3(C)O)C(=C)CC2)C;Humulus lupulus;Zanoli P & Zavatti M. 2008. Pharmacognostic and pharmacological profile of Humulus lupulus L. PMID: 18446504
+Cadinene;CC1CCC(C2C1C=CC(C2)C)C(C)C;Humulus lupulus;Zanoli P & Zavatti M. 2008. Pharmacognostic and pharmacological profile of Humulus lupulus L. PMID: 18446504
+Calamenene;CC1CCC(C2=C1C=CC(=C2)C)C(C)C;Humulus lupulus;Zanoli P & Zavatti M. 2008. Pharmacognostic and pharmacological profile of Humulus lupulus L. PMID: 18446504
+Cubenol;CC1CCC(C2C1(CCC(=C2)C)O)C(C)C;Humulus lupulus;Zanoli P & Zavatti M. 2008. Pharmacognostic and pharmacological profile of Humulus lupulus L. PMID: 18446504
+Cubebene;CC1CCC(C2C13C2C(=C)CC3)C(C)C;Humulus lupulus;Zanoli P & Zavatti M. 2008. Pharmacognostic and pharmacological profile of Humulus lupulus L. PMID: 18446504
+Cadinol;CC1=CC2C(CCC(C2CC1)(C)O)C(C)C;Humulus lupulus;Zanoli P & Zavatti M. 2008. Pharmacognostic and pharmacological profile of Humulus lupulus L. PMID: 18446504
+Muurolene;CC1=CC2C(CC1)C(=CCC2C(C)C)C;Humulus lupulus;Zanoli P & Zavatti M. 2008. Pharmacognostic and pharmacological profile of Humulus lupulus L. PMID: 18446504
+Muurolol;CC1=CC2C(CCC(C2CC1)(C)O)C(C)C;Humulus lupulus;Zanoli P & Zavatti M. 2008. Pharmacognostic and pharmacological profile of Humulus lupulus L. PMID: 18446504
+Copaene;CC1=CCC2C3C1C2(CCC3C(C)C)C;Humulus lupulus;Zanoli P & Zavatti M. 2008. Pharmacognostic and pharmacological profile of Humulus lupulus L. PMID: 18446504
+Germacrene D;CC1=CCCC(=C)C=CC(CC1)C(C)C;Humulus lupulus;Zanoli P & Zavatti M. 2008. Pharmacognostic and pharmacological profile of Humulus lupulus L. PMID: 18446504
+Germacrene B;CC1=CCCC(=CCC(=C(C)C)CC1)C;Humulus lupulus;Zanoli P & Zavatti M. 2008. Pharmacognostic and pharmacological profile of Humulus lupulus L. PMID: 18446504
+Germacrene A;CC1=CCCC(=CCC(CC1)C(=C)C)C;Humulus lupulus;Zanoli P & Zavatti M. 2008. Pharmacognostic and pharmacological profile of Humulus lupulus L. PMID: 18446504
+Ylangene;CC1=CCC2C3C1C2(CCC3C(C)C)C;Humulus lupulus;Zanoli P & Zavatti M. 2008. Pharmacognostic and pharmacological profile of Humulus lupulus L. PMID: 18446504
+Tannic acid;C1=C(C=C(C(=C1O)O)O)C(=O)OC2=CC(=CC(=C2O)O)C(=O)OCC3C(C(C(C(O3)OC(=O)C4=CC(=C(C(=C4)OC(=O)C5=CC(=C(C(=C5)O)O)O)O)O)OC(=O)C6=CC(=C(C(=C6)OC(=O)C7=CC(=C(C(=C7)O)O)O)O)O)OC(=O)C8=CC(=C(C(=C8)OC(=O)C9=CC(=C(C(=C9)O)O)O)O)O)OC(=O)C1=CC(=C(C(=C1)OC(=O)C1=CC(=C(C(=C1)O)O)O)O)O;Humulus lupulus;Karabin M et al. 2015. Biologically active compounds from hops and prospects for their use. PMID: 26463615
+Shikimic acid;C1C(C(C(C=C1C(=O)O)O)O)O;Humulus lupulus;Karabin M et al. 2015. Biologically active compounds from hops and prospects for their use. PMID: 26463615
+Orsellinic acid;CC1=CC(=CC(=C1C(=O)O)O)O;Humulus lupulus;Karabin M et al. 2015. Biologically active compounds from hops and prospects for their use. PMID: 26463615
+Kojic acid;C1=C(OC=C(C1=O)O)CO;Humulus lupulus;Karabin M et al. 2015. Biologically active compounds from hops and prospects for their use. PMID: 26463615
+Glycyrrhizin;CC1(C2CCC3(C(C2(CCC1OC4C(C(C(C(O4)C(=O)O)O)O)OC5C(C(C(C(O5)C(=O)O)O)O)O)C)C(=O)C=C6C3(CCC7(C6CC(CC7)(C)C(=O)O)C)C)C)C;Humulus lupulus;Zanoli P & Zavatti M. 2008. Pharmacognostic and pharmacological profile of Humulus lupulus L. PMID: 18446504
+Phellandric acid;CC(C)C1CCC(=CC1)C(=O)O;Humulus lupulus;Karabin M et al. 2015. Biologically active compounds from hops and prospects for their use. PMID: 26463615
+Decanedioic acid;C(CCCCC(=O)O)CCCC(=O)O;Humulus lupulus;Karabin M et al. 2015. Biologically active compounds from hops and prospects for their use. PMID: 26463615
+Decanoic acid;CCCCCCCCCC(=O)O;Humulus lupulus;Karabin M et al. 2015. Biologically active compounds from hops and prospects for their use. PMID: 26463615
+Docosanoic acid;CCCCCCCCCCCCCCCCCCCCCC(=O)O;Humulus lupulus;Karabin M et al. 2015. Biologically active compounds from hops and prospects for their use. PMID: 26463615
+Dotriacontanoic acid;CCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCC(=O)O;Humulus lupulus;Karabin M et al. 2015. Biologically active compounds from hops and prospects for their use. PMID: 26463615
+Eicosanoic acid;CCCCCCCCCCCCCCCCCCCC(=O)O;Humulus lupulus;Karabin M et al. 2015. Biologically active compounds from hops and prospects for their use. PMID: 26463615
+Hexadecanoic acid;CCCCCCCCCCCCCCCC(=O)O;Humulus lupulus;Karabin M et al. 2015. Biologically active compounds from hops and prospects for their use. PMID: 26463615
+Hexanedioic acid;C(CCC(=O)O)CC(=O)O;Humulus lupulus;Karabin M et al. 2015. Biologically active compounds from hops and prospects for their use. PMID: 26463615
+Nonacosanoic acid;CCCCCCCCCCCCCCCCCCCCCCCCCCCCC(=O)O;Humulus lupulus;Karabin M et al. 2015. Biologically active compounds from hops and prospects for their use. PMID: 26463615
+Tetracosanoic acid;CCCCCCCCCCCCCCCCCCCCCCCC(=O)O;Humulus lupulus;Karabin M et al. 2015. Biologically active compounds from hops and prospects for their use. PMID: 26463615
+Tetradecanoic acid;CCCCCCCCCCCCCC(=O)O;Humulus lupulus;Karabin M et al. 2015. Biologically active compounds from hops and prospects for their use. PMID: 26463615
+Triacontanoic acid;CCCCCCCCCCCCCCCCCCCCCCCCCCCCCC(=O)O;Humulus lupulus;Karabin M et al. 2015. Biologically active compounds from hops and prospects for their use. PMID: 26463615
+Undecanoic acid;CCCCCCCCCCC(=O)O;Humulus lupulus;Karabin M et al. 2015. Biologically active compounds from hops and prospects for their use. PMID: 26463615
+Cerotic acid;CCCCCCCCCCCCCCCCCCCCCCCCCC(=O)O;Humulus lupulus;Karabin M et al. 2015. Biologically active compounds from hops and prospects for their use. PMID: 26463615
+Ricinoleic acid;CCCCCCC(CC=CCCCCCCCC(=O)O)O;Humulus lupulus;Karabin M et al. 2015. Biologically active compounds from hops and prospects for their use. PMID: 26463615
+Decanoylcarnitine;CCCCCCCCCC(=O)OC(CC(=O)[O-])C[N+](C)(C)C;Humulus lupulus;Zanoli P & Zavatti M. 2008. Pharmacognostic and pharmacological profile of Humulus lupulus L. PMID: 18446504
+Octenoylcarnitine;CCCCCC=CC(=O)C(CC(=O)[O-])(C[N+](C)(C)C)O;Humulus lupulus;Zanoli P & Zavatti M. 2008. Pharmacognostic and pharmacological profile of Humulus lupulus L. PMID: 18446504
+Tetradecadienylcarnitine;CCCCCCCCCCC=CC=CC(CC(=O)[O-])(C[N+](C)(C)C)O;Humulus lupulus;Zanoli P & Zavatti M. 2008. Pharmacognostic and pharmacological profile of Humulus lupulus L. PMID: 18446504
+Tetradecenoylcarnitine;CCCCCCCCCCCC=CC(=O)C(CC(=O)[O-])(C[N+](C)(C)C)O;Humulus lupulus;Zanoli P & Zavatti M. 2008. Pharmacognostic and pharmacological profile of Humulus lupulus L. PMID: 18446504
+Dehydroabietic acid;CC(C)C1=CC2=C(C=C1)C3(CCCC(C3CC2)(C)C(=O)O)C;Humulus lupulus;Karabin M et al. 2015. Biologically active compounds from hops and prospects for their use. PMID: 26463615
+2-Ethylhexanoic acid;CCCCC(CC)C(=O)O;Humulus lupulus;Karabin M et al. 2015. Biologically active compounds from hops and prospects for their use. PMID: 26463615
+Heptadecanoic acid;CCCCCCCCCCCCCCCCC(=O)O;Humulus lupulus;Karabin M et al. 2015. Biologically active compounds from hops and prospects for their use. PMID: 26463615
+Hexanoic acid;CCCCCC(=O)O;Humulus lupulus;Karabin M et al. 2015. Biologically active compounds from hops and prospects for their use. PMID: 26463615
+Isoferulic acid;COC1=C(C=C(C=C1)C=CC(=O)O)O;Humulus lupulus;Karabin M et al. 2015. Biologically active compounds from hops and prospects for their use. PMID: 26463615
+Methylmalonic acid;CC(C(=O)O)C(=O)O;Humulus lupulus;Karabin M et al. 2015. Biologically active compounds from hops and prospects for their use. PMID: 26463615
+Pelargonic acid;CCCCCCCCC(=O)O;Humulus lupulus;Karabin M et al. 2015. Biologically active compounds from hops and prospects for their use. PMID: 26463615
+Pentadecanoic acid;CCCCCCCCCCCCCCC(=O)O;Humulus lupulus;Karabin M et al. 2015. Biologically active compounds from hops and prospects for their use. PMID: 26463615
+Phenyllactic acid;CC(C1=CC=CC=C1)(C(=O)O)O;Humulus lupulus;Karabin M et al. 2015. Biologically active compounds from hops and prospects for their use. PMID: 26463615
+Piceatannol;C1=CC(=C(C=C1C=CC2=CC(=CC(=C2)O)O)O)O;Humulus lupulus;Zanoli P & Zavatti M. 2008. Pharmacognostic and pharmacological profile of Humulus lupulus L. PMID: 18446504
+Resveratrol;C1=CC(=CC=C1C=CC2=CC(=CC(=C2)O)O)O;Humulus lupulus;Zanoli P & Zavatti M. 2008. Pharmacognostic and pharmacological profile of Humulus lupulus L. PMID: 18446504
+Coumestrol;C1=CC2=C(C=C1O)OC3=C2C(=O)OC4=C3C=CC(=C4)O;Humulus lupulus;Zanoli P & Zavatti M. 2008. Pharmacognostic and pharmacological profile of Humulus lupulus L. PMID: 18446504
+Daidzein;C1=CC(=CC=C1C2=COC3=C(C2=O)C=CC(=C3)O)O;Humulus lupulus;Zanoli P & Zavatti M. 2008. Pharmacognostic and pharmacological profile of Humulus lupulus L. PMID: 18446504
+Genistein;C1=CC(=CC=C1C2=COC3=CC(=CC(=C3C2=O)O)O)O;Humulus lupulus;Zanoli P & Zavatti M. 2008. Pharmacognostic and pharmacological profile of Humulus lupulus L. PMID: 18446504
+Isoflavone;C1=CC=C(C=C1)C2=COC3=CC=CC=C3C2=O;Humulus lupulus;Stevens JF & Page JE. 2004. Xanthohumol and related prenylflavonoids from hops and beer. PMID: 15113149
+Biochanin A;COC1=CC=C(C=C1)C2=COC3=CC(=CC(=C3C2=O)O)O;Humulus lupulus;Zanoli P & Zavatti M. 2008. Pharmacognostic and pharmacological profile of Humulus lupulus L. PMID: 18446504
+Formononetin;COC1=CC=C(C=C1)C2=COC3=C(C2=O)C=CC(=C3)O;Humulus lupulus;Zanoli P & Zavatti M. 2008. Pharmacognostic and pharmacological profile of Humulus lupulus L. PMID: 18446504
+Glycitein;COC1=C(C=C2C(=C1)C(=O)C(=CO2)C3=CC=C(C=C3)O)O;Humulus lupulus;Zanoli P & Zavatti M. 2008. Pharmacognostic and pharmacological profile of Humulus lupulus L. PMID: 18446504
+Pinobanksin;C1=CC=C(C=C1)C2C(C(=O)C3=C(C=C(C=C3O2)O)O)O;Humulus lupulus;Zanoli P & Zavatti M. 2008. Pharmacognostic and pharmacological profile of Humulus lupulus L. PMID: 18446504
+Tremuloidin;C1=CC=C(C=C1)C(=O)OC2C(C(C(OC2OC3=CC=CC=C3CO)CO)O)O;Trema micrantha;Barbosa-Filho JM et al. 2006. Plants and their active constituents from South, Central, and North America with hypoglycemic activity. PMID: 17072841
+Populoside;C1=CC=C(C(=C1)COC(=O)C=CC2=CC(=C(C=C2)O)O)OC3C(C(C(C(O3)CO)O)O)O;Trema micrantha;Barbosa-Filho JM et al. 2006. Plants and their active constituents from South, Central, and North America with hypoglycemic activity. PMID: 17072841
+Fragilin;CC1=CC2=C(C(=C1)O)C(=O)C3=C(C(=C(C=C3C2=O)OC)Cl)O;Trema micrantha;Barbosa-Filho JM et al. 2006. Plants and their active constituents from South, Central, and North America with hypoglycemic activity. PMID: 17072841
+Trichocarpin;C1=CC=C(C=C1)COC(=O)C2=C(C=CC(=C2)O)OC3C(C(C(C(O3)CO)O)O)O;Trema micrantha;Barbosa-Filho JM et al. 2006. Plants and their active constituents from South, Central, and North America with hypoglycemic activity. PMID: 17072841
+Salireposide;C1=CC=C(C=C1)C(=O)OCC2=C(C=CC(=C2)O)OC3C(C(C(C(O3)CO)O)O)O;Trema micrantha;Barbosa-Filho JM et al. 2006. Plants and their active constituents from South, Central, and North America with hypoglycemic activity. PMID: 17072841
+Salicortin;C1CC(=O)C(C=C1)(C(=O)OCC2=CC=CC=C2OC3C(C(C(C(O3)CO)O)O)O)O;Trema micrantha;Barbosa-Filho JM et al. 2006. Plants and their active constituents from South, Central, and North America with hypoglycemic activity. PMID: 17072841
+Delphinidin;C1=C(C=C(C(=C1O)O)O)C2=[O+]C3=CC(=CC(=C3C=C2O)O)O.[Cl-];Trema micrantha;Barbosa-Filho JM et al. 2006. Plants and their active constituents from South, Central, and North America with hypoglycemic activity. PMID: 17072841
+Cyanidin;C1=CC(=C(C=C1C2=[O+]C3=CC(=CC(=C3C=C2O)O)O)O)O;Trema micrantha;Barbosa-Filho JM et al. 2006. Plants and their active constituents from South, Central, and North America with hypoglycemic activity. PMID: 17072841
+Malvidin;COC1=CC(=CC(=C1O)OC)C2=[O+]C3=CC(=CC(=C3C=C2O)O)O;Trema micrantha;Barbosa-Filho JM et al. 2006. Plants and their active constituents from South, Central, and North America with hypoglycemic activity. PMID: 17072841
+Petunidin;COC1=CC(=CC(=C1O)O)C2=[O+]C3=CC(=CC(=C3C=C2O)O)O;Trema micrantha;Barbosa-Filho JM et al. 2006. Plants and their active constituents from South, Central, and North America with hypoglycemic activity. PMID: 17072841
+Peonidin;COC1=C(C=CC(=C1)C2=[O+]C3=CC(=CC(=C3C=C2O)O)O)O;Trema micrantha;Barbosa-Filho JM et al. 2006. Plants and their active constituents from South, Central, and North America with hypoglycemic activity. PMID: 17072841
+Pelargonidin;C1=CC(=CC=C1C2=[O+]C3=CC(=CC(=C3C=C2O)O)O)O.[Cl-];Trema micrantha;Barbosa-Filho JM et al. 2006. Plants and their active constituents from South, Central, and North America with hypoglycemic activity. PMID: 17072841
+Delphinidin-3-glucoside;C1=C(C=C(C(=C1O)O)O)C2=[O+]C3=CC(=CC(=C3C=C2OC4C(C(C(C(O4)CO)O)O)O)O)O.[Cl-];Trema micrantha;Barbosa-Filho JM et al. 2006. Plants and their active constituents from South, Central, and North America with hypoglycemic activity. PMID: 17072841
+Cyanidin-3-glucoside;C1=CC(=C(C=C1C2=[O+]C3=CC(=CC(=C3C=C2OC4C(C(C(C(O4)CO)O)O)O)O)O)O)O.[Cl-];Trema micrantha;Barbosa-Filho JM et al. 2006. Plants and their active constituents from South, Central, and North America with hypoglycemic activity. PMID: 17072841
+Pelargonidin-3-glucoside;C1=CC(=CC=C1C2=[O+]C3=CC(=CC(=C3C=C2OC4C(C(C(C(O4)CO)O)O)O)O)O)O.[Cl-];Trema micrantha;Barbosa-Filho JM et al. 2006. Plants and their active constituents from South, Central, and North America with hypoglycemic activity. PMID: 17072841
+Malvidin-3-glucoside;COC1=CC(=CC(=C1O)OC)C2=[O+]C3=CC(=CC(=C3C=C2OC4C(C(C(C(O4)CO)O)O)O)O)O;Trema micrantha;Barbosa-Filho JM et al. 2006. Plants and their active constituents from South, Central, and North America with hypoglycemic activity. PMID: 17072841
+Peonidin-3-glucoside;COC1=C(C=CC(=C1)C2=[O+]C3=CC(=CC(=C3C=C2OC4C(C(C(C(O4)CO)O)O)O)O)O)O;Trema micrantha;Barbosa-Filho JM et al. 2006. Plants and their active constituents from South, Central, and North America with hypoglycemic activity. PMID: 17072841
+Petunidin-3-glucoside;COC1=CC(=CC(=C1O)O)C2=[O+]C3=CC(=CC(=C3C=C2OC4C(C(C(C(O4)CO)O)O)O)O)O.[Cl-];Trema micrantha;Barbosa-Filho JM et al. 2006. Plants and their active constituents from South, Central, and North America with hypoglycemic activity. PMID: 17072841
+Heptadecanoic acid;CCCCCCCCCCCCCCCCC(=O)O;Trema micrantha;Diniz A et al. 2007. Chemical composition and antibacterial activity of essential oils of Trema micrantha. PMID: 17651078
+Pentadecanoic acid;CCCCCCCCCCCCCCC(=O)O;Trema micrantha;Diniz A et al. 2007. Chemical composition and antibacterial activity of essential oils of Trema micrantha. PMID: 17651078
+Tridecanoic acid;CCCCCCCCCCCCC(=O)O;Trema micrantha;Diniz A et al. 2007. Chemical composition and antibacterial activity of essential oils of Trema micrantha. PMID: 17651078
+Undecanoic acid;CCCCCCCCCCC(=O)O;Trema micrantha;Diniz A et al. 2007. Chemical composition and antibacterial activity of essential oils of Trema micrantha. PMID: 17651078
+Nonanoic acid;CCCCCCCCC(=O)O;Trema micrantha;Diniz A et al. 2007. Chemical composition and antibacterial activity of essential oils of Trema micrantha. PMID: 17651078
+Heptanoic acid;CCCCCCC(=O)O;Trema micrantha;Diniz A et al. 2007. Chemical composition and antibacterial activity of essential oils of Trema micrantha. PMID: 17651078
+Pentanoic acid;CCCCC(=O)O;Trema micrantha;Diniz A et al. 2007. Chemical composition and antibacterial activity of essential oils of Trema micrantha. PMID: 17651078
+Propanoic acid;CCC(=O)O;Trema micrantha;Diniz A et al. 2007. Chemical composition and antibacterial activity of essential oils of Trema micrantha. PMID: 17651078
+Butyric acid;CCCC(=O)O;Trema micrantha;Diniz A et al. 2007. Chemical composition and antibacterial activity of essential oils of Trema micrantha. PMID: 17651078
+Valeric acid;CCCCC(=O)O;Trema micrantha;Diniz A et al. 2007. Chemical composition and antibacterial activity of essential oils of Trema micrantha. PMID: 17651078
+Alpha-onocerin;CC1(C2CCC(=C)C(C2(CCC1O)C)CCC3C(=C)CCC4C3(CCC(C4(C)C)O)C)C;Trema micrantha;Barbosa-Filho JM et al. 2006. Plants and their active constituents from South, Central, and North America with hypoglycemic activity. PMID: 17072841
+Beta-onocerin;CC1=C(C2(CCC(C(C2CC1)(C)C)O)C)CCC3=C(CCC4C3(CCC(C4(C)C)O)C)C;Trema micrantha;Barbosa-Filho JM et al. 2006. Plants and their active constituents from South, Central, and North America with hypoglycemic activity. PMID: 17072841
+Ambrein;CC(=CCCC1C2(CCCC(C2CCC1(C)O)(C)C)C)CCC3C(=C)CCCC3(C)C;Trema micrantha;Barbosa-Filho JM et al. 2006. Plants and their active constituents from South, Central, and North America with hypoglycemic activity. PMID: 17072841
+Dammaradienol;CC(=CCCC(=C)C1CCC2(C1CCC3C2(CCC4C3(CCC(C4(C)C)O)C)C)C)C;Trema micrantha;Barbosa-Filho JM et al. 2006. Plants and their active constituents from South, Central, and North America with hypoglycemic activity. PMID: 17072841
+Dammarenediol;CC(=CCCC(C)(C1CCC2(C1CCC3C2(CCC4C3(CCC(C4(C)C)O)C)C)C)O)C;Trema micrantha;Barbosa-Filho JM et al. 2006. Plants and their active constituents from South, Central, and North America with hypoglycemic activity. PMID: 17072841
+Dipterocarpol;CC(=CCCC(C)(C1CCC2(C1CCC3C2(CCC4C3(CCC(=O)C4(C)C)C)C)C)O)C;Trema micrantha;Barbosa-Filho JM et al. 2006. Plants and their active constituents from South, Central, and North America with hypoglycemic activity. PMID: 17072841
+Hydroxyhopanone;CC1(C2CCC3(C(C2(CCC1=O)C)CCC4C3(CCC5C4(CCC5C(C)(C)O)C)C)C)C;Trema micrantha;Barbosa-Filho JM et al. 2006. Plants and their active constituents from South, Central, and North America with hypoglycemic activity. PMID: 17072841
+Germanicol;CC1(CCC2(CCC3(C(C2=C1)CCC4C3(CCC5C4(CCC(C5(C)C)O)C)C)C)C)C;Trema micrantha;Barbosa-Filho JM et al. 2006. Plants and their active constituents from South, Central, and North America with hypoglycemic activity. PMID: 17072841
+Gramisterol;CC1C(CCC2(C1CC=C3C2CCC4(C3CCC4C(C)CCC(=C)C(C)C)C)C)O;Trema micrantha;Ogunkoya L et al. 1977. Triterpenes and sterols from Trema orientalis. PMID: 839972
+Hopane;CC(C)C1CCC2(C1CCC3(C2CCC4C3(CCC5C4(CCCC5(C)C)C)C)C)C;Trema micrantha;Barbosa-Filho JM et al. 2006. Plants and their active constituents from South, Central, and North America with hypoglycemic activity. PMID: 17072841
+Hopene;CC(=C)C1CCC2(C1CCC3(C2CCC4C3(CCC5C4(CCCC5(C)C)C)C)C)C;Trema micrantha;Barbosa-Filho JM et al. 2006. Plants and their active constituents from South, Central, and North America with hypoglycemic activity. PMID: 17072841
+Lanosterol;CC(CCC=C(C)C)C1CCC2(C1(CCC3=C2CCC4C3(CCC(C4(C)C)O)C)C)C;Trema micrantha;Ogunkoya L et al. 1977. Triterpenes and sterols from Trema orientalis. PMID: 839972
+Lupane;CC(C)C1CCC2(C1C3CCC4C5(CCCC(C5CCC4(C3(CC2)C)C)(C)C)C)C;Trema micrantha;Barbosa-Filho JM et al. 2006. Plants and their active constituents from South, Central, and North America with hypoglycemic activity. PMID: 17072841
+Lupenone;CC(=C)C1CCC2(C1C3CCC4C5(CCC(=O)C(C5CCC4(C3(CC2)C)C)(C)C)C)C;Trema micrantha;Barbosa-Filho JM et al. 2006. Plants and their active constituents from South, Central, and North America with hypoglycemic activity. PMID: 17072841
+Moretenone;CC(=C)C1CCC2(C1CCC3(C2CCC4C3(CCC5C4(CCC(=O)C5(C)C)C)C)C)C;Trema micrantha;Barbosa-Filho JM et al. 2006. Plants and their active constituents from South, Central, and North America with hypoglycemic activity. PMID: 17072841
+Parkeol;CC(CCC=C(C)C)C1CCC2(C1(CC=C3C2CCC4C3(CCC(C4(C)C)O)C)C)C;Trema micrantha;Barbosa-Filho JM et al. 2006. Plants and their active constituents from South, Central, and North America with hypoglycemic activity. PMID: 17072841
+Serratene;CC1(CCCC2(C1CCC3(C2CCC4C(=CCC5C4(CCCC5(C)C)C)C3)C)C)C;Trema micrantha;Barbosa-Filho JM et al. 2006. Plants and their active constituents from South, Central, and North America with hypoglycemic activity. PMID: 17072841
+Simiarenol;CC(C)C1CCC2C1(CCC3(C2(CCC4(C3CC=C5C4CCC(C5(C)C)O)C)C)C)C;Trema micrantha;Barbosa-Filho JM et al. 2006. Plants and their active constituents from South, Central, and North America with hypoglycemic activity. PMID: 17072841
+Tirucallol;CC(CCC=C(C)C)C1CCC2(C1(CCC3=C2CCC4C3(CCC(C4(C)C)O)C)C)C;Trema micrantha;Barbosa-Filho JM et al. 2006. Plants and their active constituents from South, Central, and North America with hypoglycemic activity. PMID: 17072841
+Cannabisin H;COC1=C(C=CC(=C1)C=CC(=O)NCCC2=CC=C(C=C2)O)OC(CO)C(C3=CC(=C(C=C3)O)OC)O;Cannabis sativa;El-Alfy AT et al. 2010. Antidepressant-like effect of delta9-tetrahydrocannabinol and other cannabinoids isolated from Cannabis sativa L. PMID: 20332000
+Cannabisin M;C1=CC(=CC=C1CCNC(=O)C=CC2=CC3=C(C=C2)OC(C(O3)C(=O)NCCC4=CC=C(C=C4)O)C5=CC(=C(C=C5)O)O)O;Cannabis sativa;El-Alfy AT et al. 2010. Antidepressant-like effect of delta9-tetrahydrocannabinol and other cannabinoids isolated from Cannabis sativa L. PMID: 20332000
+Cannabidiorcol;CC1=CC(C(CC1)C(=C)C)C2=C(C=C(C=C2O)C)O;Cannabis sativa;El-Alfy AT et al. 2010. Antidepressant-like effect of delta9-tetrahydrocannabinol and other cannabinoids isolated from Cannabis sativa L. PMID: 20332000
+Perillaldehyde;CC(=C)C1CCC(=CC1)C=O;Cannabis sativa;El-Alfy AT et al. 2010. Antidepressant-like effect of delta9-tetrahydrocannabinol and other cannabinoids isolated from Cannabis sativa L. PMID: 20332000
+Citral;CC(=CCCC(=CC=O)C)C;Cannabis sativa;El-Alfy AT et al. 2010. Antidepressant-like effect of delta9-tetrahydrocannabinol and other cannabinoids isolated from Cannabis sativa L. PMID: 20332000
+Geranial;CC(=CCCC(=CC=O)C)C;Cannabis sativa;El-Alfy AT et al. 2010. Antidepressant-like effect of delta9-tetrahydrocannabinol and other cannabinoids isolated from Cannabis sativa L. PMID: 20332000
+Neral;CC(=CCCC(=CC=O)C)C;Cannabis sativa;El-Alfy AT et al. 2010. Antidepressant-like effect of delta9-tetrahydrocannabinol and other cannabinoids isolated from Cannabis sativa L. PMID: 20332000
+Citronellal;CC(CCC=C(C)C)CC=O;Cannabis sativa;El-Alfy AT et al. 2010. Antidepressant-like effect of delta9-tetrahydrocannabinol and other cannabinoids isolated from Cannabis sativa L. PMID: 20332000
+Menthyl acetate;CC1CCC(C(C1)OC(=O)C)C(C)C;Cannabis sativa;El-Alfy AT et al. 2010. Antidepressant-like effect of delta9-tetrahydrocannabinol and other cannabinoids isolated from Cannabis sativa L. PMID: 20332000
+Geranyl acetate;CC(=CCCC(=CCOC(=O)C)C)C;Cannabis sativa;El-Alfy AT et al. 2010. Antidepressant-like effect of delta9-tetrahydrocannabinol and other cannabinoids isolated from Cannabis sativa L. PMID: 20332000
+Neryl acetate;CC(=CCCC(=CCOC(=O)C)C)C;Cannabis sativa;El-Alfy AT et al. 2010. Antidepressant-like effect of delta9-tetrahydrocannabinol and other cannabinoids isolated from Cannabis sativa L. PMID: 20332000
+Citronellyl acetate;CC(CCC=C(C)C)CCOC(=O)C;Cannabis sativa;El-Alfy AT et al. 2010. Antidepressant-like effect of delta9-tetrahydrocannabinol and other cannabinoids isolated from Cannabis sativa L. PMID: 20332000
+Bornyl acetate;CC(=O)OC1CC2CCC1(C2(C)C)C;Cannabis sativa;El-Alfy AT et al. 2010. Antidepressant-like effect of delta9-tetrahydrocannabinol and other cannabinoids isolated from Cannabis sativa L. PMID: 20332000
+Terpinyl acetate;CC1=CCC(CC1)C(C)(C)OC(=O)C;Cannabis sativa;El-Alfy AT et al. 2010. Antidepressant-like effect of delta9-tetrahydrocannabinol and other cannabinoids isolated from Cannabis sativa L. PMID: 20332000
+Isoborneol;CC1(C2CCC1(C(C2)O)C)C;Cannabis sativa;El-Alfy AT et al. 2010. Antidepressant-like effect of delta9-tetrahydrocannabinol and other cannabinoids isolated from Cannabis sativa L. PMID: 20332000
+Isopulegone;CC1CCC(C(=O)C1)C(=C)C;Cannabis sativa;El-Alfy AT et al. 2010. Antidepressant-like effect of delta9-tetrahydrocannabinol and other cannabinoids isolated from Cannabis sativa L. PMID: 20332000
+Cedrol;CC1CCC2C13CCC(C(C3)C2(C)C)(C)O;Cannabis sativa;El-Alfy AT et al. 2010. Antidepressant-like effect of delta9-tetrahydrocannabinol and other cannabinoids isolated from Cannabis sativa L. PMID: 20332000
+Cedrene;CC1CCC2C13CC=C(C(C3)C2(C)C)C;Cannabis sativa;El-Alfy AT et al. 2010. Antidepressant-like effect of delta9-tetrahydrocannabinol and other cannabinoids isolated from Cannabis sativa L. PMID: 20332000
+Thujopsene;CC1=CCC2(CCCC(C23C1C3)(C)C)C;Cannabis sativa;El-Alfy AT et al. 2010. Antidepressant-like effect of delta9-tetrahydrocannabinol and other cannabinoids isolated from Cannabis sativa L. PMID: 20332000
+Cadinol;CC1=CC2C(CCC(C2CC1)(C)O)C(C)C;Cannabis sativa;El-Alfy AT et al. 2010. Antidepressant-like effect of delta9-tetrahydrocannabinol and other cannabinoids isolated from Cannabis sativa L. PMID: 20332000
+Muurolene;CC1=CC2C(CC1)C(=CCC2C(C)C)C;Cannabis sativa;El-Alfy AT et al. 2010. Antidepressant-like effect of delta9-tetrahydrocannabinol and other cannabinoids isolated from Cannabis sativa L. PMID: 20332000
+Muurolol;CC1=CC2C(CCC(C2CC1)(C)O)C(C)C;Cannabis sativa;El-Alfy AT et al. 2010. Antidepressant-like effect of delta9-tetrahydrocannabinol and other cannabinoids isolated from Cannabis sativa L. PMID: 20332000
+Amorphene;CC1=CC2C(CC1)C(=CCC2C(C)C)C;Cannabis sativa;El-Alfy AT et al. 2010. Antidepressant-like effect of delta9-tetrahydrocannabinol and other cannabinoids isolated from Cannabis sativa L. PMID: 20332000
+Bergamotene;CC(=CCCC1(C2CCC(=C)C1C2)C)C;Cannabis sativa;El-Alfy AT et al. 2010. Antidepressant-like effect of delta9-tetrahydrocannabinol and other cannabinoids isolated from Cannabis sativa L. PMID: 20332000
+Bulnesene;CC1CCC2=C(CCC(CC12)C(C)C)C;Cannabis sativa;El-Alfy AT et al. 2010. Antidepressant-like effect of delta9-tetrahydrocannabinol and other cannabinoids isolated from Cannabis sativa L. PMID: 20332000
+Cubebene;CC1CCC(C2C13C2C(=C)CC3)C(C)C;Cannabis sativa;El-Alfy AT et al. 2010. Antidepressant-like effect of delta9-tetrahydrocannabinol and other cannabinoids isolated from Cannabis sativa L. PMID: 20332000
+Eremophilene;CC1CCC=C2C1(CC(CC2)C(=C)C)C;Cannabis sativa;El-Alfy AT et al. 2010. Antidepressant-like effect of delta9-tetrahydrocannabinol and other cannabinoids isolated from Cannabis sativa L. PMID: 20332000
+Aristolene;CC1CCCC2=CCC3C(C12C)C3(C)C;Cannabis sativa;El-Alfy AT et al. 2010. Antidepressant-like effect of delta9-tetrahydrocannabinol and other cannabinoids isolated from Cannabis sativa L. PMID: 20332000
+Calamene;CC1CCC2=C(C=CC(=C2C1)C(C)C)C;Cannabis sativa;El-Alfy AT et al. 2010. Antidepressant-like effect of delta9-tetrahydrocannabinol and other cannabinoids isolated from Cannabis sativa L. PMID: 20332000
+Apiin;C1C(C(C(O1)OC2C(C(C(OC2OC3=CC(=C4C(=C3)OC(=CC4=O)C5=CC=C(C=C5)O)O)CO)O)O)O)(CO)O;Cannabis sativa;El-Alfy AT et al. 2010. Antidepressant-like effect of delta9-tetrahydrocannabinol and other cannabinoids isolated from Cannabis sativa L. PMID: 20332000
+Baicalein;C1=CC=C(C=C1)C2=CC(=O)C3=C(O2)C=C(C(=C3O)O)O;Cannabis sativa;El-Alfy AT et al. 2010. Antidepressant-like effect of delta9-tetrahydrocannabinol and other cannabinoids isolated from Cannabis sativa L. PMID: 20332000
+Baicalin;C1=CC=C(C=C1)C2=CC(=O)C3=C(C(=C(C=C3O2)OC4C(C(C(C(O4)C(=O)O)O)O)O)O)O;Cannabis sativa;El-Alfy AT et al. 2010. Antidepressant-like effect of delta9-tetrahydrocannabinol and other cannabinoids isolated from Cannabis sativa L. PMID: 20332000
+Biochanin A;COC1=CC=C(C=C1)C2=COC3=CC(=CC(=C3C2=O)O)O;Cannabis sativa;El-Alfy AT et al. 2010. Antidepressant-like effect of delta9-tetrahydrocannabinol and other cannabinoids isolated from Cannabis sativa L. PMID: 20332000
+Chrysin;C1=CC=C(C=C1)C2=CC(=O)C3=C(C=C(C=C3O2)O)O;Cannabis sativa;El-Alfy AT et al. 2010. Antidepressant-like effect of delta9-tetrahydrocannabinol and other cannabinoids isolated from Cannabis sativa L. PMID: 20332000
+Daidzein;C1=CC(=CC=C1C2=COC3=C(C2=O)C=CC(=C3)O)O;Cannabis sativa;El-Alfy AT et al. 2010. Antidepressant-like effect of delta9-tetrahydrocannabinol and other cannabinoids isolated from Cannabis sativa L. PMID: 20332000
+Daidzin;C1=CC(=CC=C1C2=COC3=C(C2=O)C=CC(=C3)OC4C(C(C(C(O4)CO)O)O)O)O;Cannabis sativa;El-Alfy AT et al. 2010. Antidepressant-like effect of delta9-tetrahydrocannabinol and other cannabinoids isolated from Cannabis sativa L. PMID: 20332000
+Diosmin;CC1C(C(C(C(O1)OCC2C(C(C(C(O2)OC3=CC(=C4C(=C3)OC(=CC4=O)C5=CC(=C(C=C5)OC)O)O)O)O)O)O)O)O;Cannabis sativa;El-Alfy AT et al. 2010. Antidepressant-like effect of delta9-tetrahydrocannabinol and other cannabinoids isolated from Cannabis sativa L. PMID: 20332000
+Formononetin;COC1=CC=C(C=C1)C2=COC3=C(C2=O)C=CC(=C3)O;Cannabis sativa;El-Alfy AT et al. 2010. Antidepressant-like effect of delta9-tetrahydrocannabinol and other cannabinoids isolated from Cannabis sativa L. PMID: 20332000
+Genistein;C1=CC(=CC=C1C2=COC3=CC(=CC(=C3C2=O)O)O)O;Cannabis sativa;El-Alfy AT et al. 2010. Antidepressant-like effect of delta9-tetrahydrocannabinol and other cannabinoids isolated from Cannabis sativa L. PMID: 20332000
+Genistin;C1=CC(=CC=C1C2=COC3=CC(=CC(=C3C2=O)O)OC4C(C(C(C(O4)CO)O)O)O)O;Cannabis sativa;El-Alfy AT et al. 2010. Antidepressant-like effect of delta9-tetrahydrocannabinol and other cannabinoids isolated from Cannabis sativa L. PMID: 20332000
+Glycitein;COC1=C(C=C2C(=C1)C(=O)C(=CO2)C3=CC=C(C=C3)O)O;Cannabis sativa;El-Alfy AT et al. 2010. Antidepressant-like effect of delta9-tetrahydrocannabinol and other cannabinoids isolated from Cannabis sativa L. PMID: 20332000
+Glycitin;COC1=C(C=C2C(=C1)C(=O)C(=CO2)C3=CC=C(C=C3)O)OC4C(C(C(C(O4)CO)O)O)O;Cannabis sativa;El-Alfy AT et al. 2010. Antidepressant-like effect of delta9-tetrahydrocannabinol and other cannabinoids isolated from Cannabis sativa L. PMID: 20332000
+Hesperidin;CC1C(C(C(C(O1)OCC2C(C(C(C(O2)OC3=CC(=C4C(=O)CC(OC4=C3)C5=CC(=C(C=C5)OC)O)O)O)O)O)O)O)O;Cannabis sativa;El-Alfy AT et al. 2010. Antidepressant-like effect of delta9-tetrahydrocannabinol and other cannabinoids isolated from Cannabis sativa L. PMID: 20332000
+Hesperitin;COC1=C(C=C(C=C1)C2CC(=O)C3=C(C=C(C=C3O2)O)O)O;Cannabis sativa;El-Alfy AT et al. 2010. Antidepressant-like effect of delta9-tetrahydrocannabinol and other cannabinoids isolated from Cannabis sativa L. PMID: 20332000
+Narirutin;CC1C(C(C(C(O1)OCC2C(C(C(C(O2)OC3=CC(=C4C(=O)CC(OC4=C3)C5=CC=C(C=C5)O)O)O)O)O)O)O)O;Cannabis sativa;Flores-Sanchez IJ & Verpoorte R. 2008. Secondary metabolism in cannabis. PMID: 18277609
+Naringin;CC1C(C(C(C(O1)OC2C(C(C(OC2OC3=CC(=C4C(=O)CC(OC4=C3)C5=CC=C(C=C5)O)O)CO)O)O)O)O)O;Cannabis sativa;El-Alfy AT et al. 2010. Antidepressant-like effect of delta9-tetrahydrocannabinol and other cannabinoids isolated from Cannabis sativa L. PMID: 20332000
+Neohesperidin;CC1C(C(C(C(O1)OC2C(C(C(OC2OC3=CC(=C4C(=O)CC(OC4=C3)C5=CC(=C(C=C5)OC)O)O)CO)O)O)O)O)O;Cannabis sativa;El-Alfy AT et al. 2010. Antidepressant-like effect of delta9-tetrahydrocannabinol and other cannabinoids isolated from Cannabis sativa L. PMID: 20332000
+Phloridzin;C1=CC(=CC=C1CCC(=O)C2=C(C=C(C=C2OC3C(C(C(C(O3)CO)O)O)O)O)O)O;Cannabis sativa;El-Alfy AT et al. 2010. Antidepressant-like effect of delta9-tetrahydrocannabinol and other cannabinoids isolated from Cannabis sativa L. PMID: 20332000
+Robinin;CC1C(C(C(C(O1)OCC2C(C(C(C(O2)OC3=C(OC4=CC(=CC(=C4C3=O)O)OC5C(C(C(C(O5)C)O)O)O)C6=CC=C(C=C6)O)O)O)O)O)O)O;Cannabis sativa;El-Alfy AT et al. 2010. Antidepressant-like effect of delta9-tetrahydrocannabinol and other cannabinoids isolated from Cannabis sativa L. PMID: 20332000
+Cannabipinol;CCCCCC1=CC(=C2C3C4C(C3(C)C)CCC4(OC2=C1)C)O;Cannabis sativa;El-Alfy AT et al. 2010. Antidepressant-like effect of delta9-tetrahydrocannabinol and other cannabinoids isolated from Cannabis sativa L. PMID: 20332000
+Alpha-cannabispiranol;COC1=CC2=C(C(=C1)O)C3(CCC(CC3)O)CC2;Cannabis sativa;El-Alfy AT et al. 2010. Antidepressant-like effect of delta9-tetrahydrocannabinol and other cannabinoids isolated from Cannabis sativa L. PMID: 20332000
+Beta-cannabispiranol;COC1=CC2=C(C(=C1)O)C3(CCC(CC3)O)CC2;Cannabis sativa;El-Alfy AT et al. 2010. Antidepressant-like effect of delta9-tetrahydrocannabinol and other cannabinoids isolated from Cannabis sativa L. PMID: 20332000
+Cannabidiol-C4;CCCCC1=CC(=C(C(=C1)O)C2C=C(CCC2C(=C)C)C)O;Cannabis sativa;El-Alfy AT et al. 2010. Antidepressant-like effect of delta9-tetrahydrocannabinol and other cannabinoids isolated from Cannabis sativa L. PMID: 20332000
+Tetrahydrocannabinol-C4;CCCCC1=CC(=C2C3C=C(CCC3C(OC2=C1)(C)C)C)O;Cannabis sativa;Aizpurua-Olaizola O et al. 2016. Evolution of the cannabinoid and terpene content during the growth of Cannabis sativa plants. PMID: 26836472
+Cannabigerol-C4;CCCCC1=CC(=C(C(=C1)O)CC=C(C)CCC=C(C)C)O;Cannabis sativa;El-Alfy AT et al. 2010. Antidepressant-like effect of delta9-tetrahydrocannabinol and other cannabinoids isolated from Cannabis sativa L. PMID: 20332000
+Cannabinol-C4;CCCCC1=CC(=C2C(=C1)OC(C3=C2C=C(C=C3)C)(C)C)O;Cannabis sativa;Aizpurua-Olaizola O et al. 2016. Evolution of the cannabinoid and terpene content during the growth of Cannabis sativa plants. PMID: 26836472
