@@ -67,3 +67,15 @@ Processed datasets are then used by the modeling scripts located in the `models/
 External datasets stored in `data/prediction_datasets/` are used for downstream QSAR prediction and validation workflows.
 
 ---
+
+```mermaid
+flowchart LR
+
+A[data_acquisition] --> B[data/raw]
+B --> C[data/curated]
+C --> D[data/processed]
+D --> E[QSAR models]
+
+F[data/prediction_datasets] --> G[QSAR prediction workflows]
+D --> G
+```
