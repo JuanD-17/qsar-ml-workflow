@@ -337,3 +337,40 @@ Python ≥ 3.8
 
 ---
 
+---
+
+## Simplified Workflow Overview
+
+```text
+ChEMBL / PubChem / Literature
+                ↓
+        Data Acquisition
+                ↓
+          Data Curation
+                ↓
+      Descriptor Generation
+   (ECFP + RDKit descriptors)
+                ↓
+         Feature Selection
+ (Boruta + RF + MI + LASSO)
+                ↓
+           QSAR Modeling
+      (RF / MLP / Stacking)
+                ↓
+    Multi-Model Predictions
+   ┌────────┬────────┬───────┐
+   │  Low   │ Medium │ High  │
+   └────────┴────────┴───────┘
+                ↓
+   Weighted Consensus Integration
+                ↓
+   Final Consolidated Prediction
+                ↓
+    Downstream Analyses & Figures
+  (AD, PCA, Tanimoto, QED, ChEBI,
+   Activity Cliffs, Validation,
+   Experimental Comparisons)
+```
+
+---
+
